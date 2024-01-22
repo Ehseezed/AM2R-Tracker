@@ -1,0 +1,153 @@
+//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+[
+    {
+        "name": "Bombs",
+        "type": "toggle",
+        "img": "images/items/Bombs.png",
+        "codes": "Bombs"
+    },
+    {
+        "name": "Charge Beam",
+        "type": "toggle",
+        "img": "images/items/Charge.png",
+        "codes": "Charge Beam"
+    },
+    {
+        "name": "Energy Tank",
+        "type": "consumable",
+        "img": "images/items/Energy_Tank.png",
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 8,
+        "codes": "Energy Tank"
+    },
+    {
+        "name": "Gravity Suit",
+        "type": "toggle",
+        "img": "images/items/Gravity.png",
+        "codes": "Gravity Suit"
+    },
+    {
+        "name": "Hi Jump Boots",
+        "type": "toggle",
+        "img": "images/items/Hi_Jump.png",
+        "codes": "Hi Jump"
+    },
+    {
+        "name": "Ice Beam",
+        "type": "toggle",
+        "img": "images/items/Ice.png",
+        "codes": "Ice Beam"
+    },
+    {
+        "name": "Missiles",
+        "type": "consumable",
+        "img": "images/items/Missile.png",
+        "max_quantity": 44,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 8,
+        "codes": "Missiles"
+    },
+    {
+        "name": "Morph Ball",
+        "type": "toggle",
+        "img": "images/items/Morph.png",
+        "codes": "Morph Ball"
+    },
+    {
+        "name": "Plasma Beam",
+        "type": "toggle",
+        "img": "images/items/Plasma.png",
+        "codes": "Plasma Beam"
+    },
+    {
+        "name": "Power Bombs",
+        "type": "consumable",
+        "img": "images/items/Power_Bombs.png",
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 8,
+        "codes": "Power Bombs"
+    },
+    {
+        "name": "Power Grip",
+        "type": "toggle",
+        "img": "images/items/Power_Grip.png",
+        "codes": "Power Grip"
+    },
+    {
+        "name": "Screw Attack",
+        "type": "toggle",
+        "img": "images/items/Screw.png",
+        "codes": "Screw Attack"
+    },
+    {
+        "name": "Short Beam",
+        "type": "toggle",
+        "img": "images/items/Short.png",
+        "codes": "Short Beam"
+    },
+    {
+        "name": "Wave Beam",
+        "type": "toggle",
+        "img": "images/items/Wave.png",
+        "codes": "Wave Beam"
+    },
+    {
+        "name": "Spazer Beam",
+        "type": "toggle",
+        "img": "images/items/Spazer.png",
+        "codes": "Spazer Beam"
+    },
+    {
+        "name": "Space Jump",
+        "type": "toggle",
+        "img": "images/items/Spcae.png",
+        "codes": "Space Jump"
+    },
+    {
+        "name": "Speed Booster",
+        "type": "toggle",
+        "img": "images/items/Speed.png",
+        "codes": "Speed Booster"
+    },
+    {
+        "name": "Spider Ball",
+        "type": "toggle",
+        "img": "images/items/Spider.png",
+        "codes": "Spider Ball"
+    },
+    {
+        "name": "Spring Ball",
+        "type": "toggle",
+        "img": "images/items/Spring_Ball.png",
+        "codes": "Spring Ball"
+    },
+    {
+        "name": "Varia Suit",
+        "type": "toggle",
+        "img": "images/items/Varia.png",
+        "codes": "Varia Suit"
+    },
+    {
+        "name": "Super Missiles",
+        "type": "consumable",
+        "img": "images/items/Super.png",
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 8,
+        "codes": "Super Missiles"
+    }
+]

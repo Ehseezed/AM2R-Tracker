@@ -1,0 +1,54 @@
+// sets layouts for shadred items grids
+// bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "6,3",
+                        "h_alignment": "center",
+                        "rows": [
+                            [ // beams
+                                "Charge Beam",
+                                "Wave Beam",
+                                "Spazer Beam",
+                                "Plasma Beam",
+                                "Ice Beam"
+                            ],
+                            [ // suits + misc
+                                "Varia Suit",
+                                "Gravity Suit",
+                                "Morph Ball",
+                                "Power Grip"
+                            ],
+                            [ // balls
+                                "Spider Ball",
+                                "Spring Ball",
+                                "Bombs"
+                            ],
+                            [ // Boots
+                                "Hi Jump",
+                                "Space Jump",
+                                "Speed Booster"
+                            ],
+                            [ // ammos
+                                "Energy Tank",
+                                "Missiles",
+                                "Super Missiles",
+                                "Power Bombs"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1556 @@
+// seperate lines for "or" same line for "and"
+[
+    {
+        "name": "Metroids",
+        "children": [
+            {
+                "name": "The Forgotten Alpha",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Why'd you forget me",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 492,
+                        "y": 349
+                    }
+                ]
+            },
+            {
+                "name": "Metroid Above Spider Ball",
+                "access_rules": [
+                    "Spider Ball",
+                    "Bombs",
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "Hangin' out",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1644,
+                        "y": 205
+                    }
+                ]
+            },
+            {
+                "name": "Moe",
+                "access_rules": [
+                    "Bombs",
+                    "Power Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "I can put anything in here",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1500,
+                        "y": 350
+                    }
+                ]
+            },
+            {
+                "name": "Larry",
+                "access_rules": [
+                    "Bombs",
+                    "Power Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Like really anything",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1283,
+                        "y": 374
+                    }
+                ]
+            },
+            {
+                "name": "Curly",
+                "access_rules": [
+                    "Bombs",
+                    "Power Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "There's also no character limit for these text boxes so I can put a lot of text in here if I want.  Did you know that in the fantastic videogame Crypt of the Necrodancer the enemies called \"Grey Goblins\" deal three whole hearts of damage if you have no armor which can kill you instantly if you aren't prepared and watching out for them",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1433,
+                        "y": 374
+                    }
+                ]
+            },
+            {
+                "name": "Freddy Fazbear",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 996,
+                        "y": 493
+                    }
+                ]
+            },
+            {
+                "name": "Turbine Terror",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "A menace to society",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 828,
+                        "y": 540
+                    }
+                ]
+            },
+            {
+                "name": "Recent Guardian",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "The successor to Ancient Guardian",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 828,
+                        "y": 444
+                    }
+                ]
+            },
+            {
+                "name": "EnderMahan",
+                "access_rules": [
+                    "Bombs",
+                    "Hi Jump",
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "League and Warframe?",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 708,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Carnage Awful",
+                "access_rules": [
+                    "Bombs",
+                    "Hi Jump",
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "The worst of the worst",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 444,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Venom Awesome",
+                "access_rules": [
+                    "Bombs",
+                    "Hi Jump",
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "The best of the best",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 708,
+                        "y": 612
+                    }
+                ]
+            },
+            {
+                "name": "Something More",
+                "access_rules": [
+                    "Bombs",
+                    "Hi Jump",
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "Something Awesome",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 589,
+                        "y": 636
+                    }
+                ]
+            },
+            {
+                "name": "The Lookout",
+                "access_rules": [
+                    "Bombs",
+                    "Hi Jump",
+                    "Space Jump",
+                    "Spider Ball"
+                ],
+                "sections": [
+                    {
+                        "name": "They see you",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 708,
+                        "y": 396
+                    }
+                ]
+            },
+            {
+                "name": "Marco",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Not the game :3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1008,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Polo",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Just some cats :3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1032,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Mimiolette",
+                "access_rules": [
+                    "Speed Booster, Bombs",
+                    "Speed Booster, Power Bombs",
+                    "Super Missiles"
+                ],
+                "sections": [
+                    {
+                        "name": "Aren't foxes cute",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1285,
+                        "y": 636
+                    }
+                ]
+            },
+            {
+                "name": "The Big Cheese",
+                "access_rules": [
+                    "Speed Booster, Bombs",
+                    "Speed Booster, Power Bombs",
+                    "Super Missiles"
+                ],
+                "sections": [
+                    {
+                        "name": "The destroyer of lactose intolerant people",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1381,
+                        "y": 660
+                    }
+                ]
+            },
+            {
+                "name": "Mohwir",
+                "access_rules": [
+                    "Bombs, Speed Booster",
+                    "Power Bombs, Speed Booster",
+                    "Bombs, Super Missiles",
+                    "Power Bombs, Super Missiles"
+                ],
+                "sections": [
+                    {
+                        "name": "omg lojemiru hiii!!!",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1379,
+                        "y": 589
+                    }
+                ]
+            },
+            {
+                "name": "Chirn",
+                "access_rules": [
+                    "Bombs, Speed Booster",
+                    "Power Bombs, Speed Booster",
+                    "Bombs, Super Missiles",
+                    "Power Bombs, Super Missiles"
+                ],
+                "sections": [
+                    {
+                        "name": "No need to resort to name calling period",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1430,
+                        "y": 589
+                    }
+                ]
+            },
+            {
+                "name": "BBHarbinger",
+                "access_rules": [
+                    "Bombs, Speed Booster",
+                    "Power Bombs, Speed Booster",
+                    "Bombs, Super Missiles",
+                    "Power Bombs, Super Missiles"
+                ],
+                "sections": [
+                    {
+                        "name": "Weh",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1357,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "The Abyssal Creature",
+                "access_rules": [
+                    "Bombs, Speed Booster",
+                    "Power Bombs, Speed Booster",
+                    "Bombs, Super Missiles",
+                    "Power Bombs, Super Missiles"
+                ],
+                "sections": [
+                    {
+                        "name": "Go check out Resplashed :)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1522,
+                        "y": 780
+                    }
+                ]
+            },
+            {
+                "name": "Sysiphus",
+                "access_rules": [
+                    "Spider Ball, Power Bombs",
+                    "Space Jump, Power Bombs",
+                    "Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Denier of shine sparks",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1549,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "And then theres this Asshole",
+                "access_rules": [
+                    "Spider Ball, Power Bombs",
+                    "Space Jump, Power Bombs",
+                    "Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "We dont like this guy very much",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1741,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Guardian of Doom Treadmill",
+                "access_rules": [
+                    "Speed Booster, Power Bombs",
+                    "Speed Booster, Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Cardio is important",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1596,
+                        "y": 588
+                    }
+                ]
+            },
+            {
+                "name": "Rawsome",
+                "access_rules": [
+                    "Speed Booster, Power Bombs",
+                    "Speed Booster, Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Thats right hes also the problem",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1741,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Unga",
+                "access_rules": [
+                    "Super Missiles, Spider Ball",
+                    "Super Missiles, Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "Unga Bunga",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1164,
+                        "y": 900
+                    }
+                ]
+            },
+            {
+                "name": "Gunga",
+                "access_rules": [
+                    "Super Missiles, Spider Ball",
+                    "Super Missiles, Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "Gunga Bunga",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1402,
+                        "y": 900
+                    }
+                ]
+            },
+            {
+                "name": "Patricia",
+                "access_rules": [
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "Its my friend Ivy's birthday today!",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 994,
+                        "y": 877
+                    }
+                ]
+            },
+            {
+                "name": "Variable",
+                "access_rules": [
+                    "Bombs",
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "\"GUH\"",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 877,
+                        "y": 780
+                    }
+                ]
+            },
+            {
+                "name": "Slagathor",
+                "access_rules": [
+                    "Bombs",
+                    "Power Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "A great name for a pet",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 826,
+                        "y": 733
+                    }
+                ]
+            },
+            {
+                "name": "Anakin",
+                "access_rules": [
+                    "Hi Jump",
+                    "Space Jump",
+                    "Spider Ball",
+                    "Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Finally on the high ground",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 973,
+                        "y": 660
+                    }
+                ]
+            },
+            {
+                "name": "Mr. Sandman",
+                "access_rules": [
+                    "Space Jump",
+                    "Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Bring me a dream",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 589,
+                        "y": 852
+                    }
+                ]
+            },
+            {
+                "name": "Xander",
+                "access_rules": [
+                    "Space Jump"
+                ],
+                "sections": [
+                    {
+                        "name": "Insane",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 586,
+                        "y": 997
+                    }
+                ]
+            },
+            {
+                "name": "Sir Zeta",
+                "access_rules": [
+                    "Bombs, Ice Beam",
+                    "Power Bombs, Ice Beam",
+                    "Bombs, Screw Attack",
+                    "Power Bombs, Screw Attack"
+                ],
+                "sections": [
+                    {
+                        "name": "Guardian of the Alpha Squadron",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1522,
+                        "y": 1117
+                    }
+                ]
+            },
+            {
+                "name": "Alpha Squadron",
+                "access_rules": [
+                    "Bombs, Ice Beam",
+                    "Power Bombs, Ice Beam",
+                    "Screw Attack"
+                ],
+                "sections": [
+                    {
+                        "name": "Timmy",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tommy",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Terry",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Telly",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Martin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1608,
+                        "y": 1080
+                    }
+                ]
+            },
+            {
+                "name": "Mario",
+                "access_rules": [
+                    "Super Missiles, Ice Beam",
+                    "Speed Booster, Gravity Suit, Ice Beam",
+                    "Screw Attack"
+                ],
+                "sections": [
+                    {
+                        "name": "Worse Luigi",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1693,
+                        "y": 1140
+                    }
+                ]
+            },
+            {
+                "name": "Luigi",
+                "access_rules": [
+                    "Super Missiles, Ice Beam",
+                    "Speed Booster, Gravity Suit, Ice Beam",
+                    "Screw Attack"
+                ],
+                "sections": [
+                    {
+                        "name": "Cooler Mario",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1693,
+                        "y": 1164
+                    }
+                ]
+            },
+            {
+                "name": "Little Bro",
+                "access_rules": [
+                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                ],
+                "sections": [
+                    {
+                        "name": "Why'd you do it to him",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 420,
+                        "y": 1188
+                    }
+                ]
+            },
+            {
+                "name": "Big Sis",
+                "access_rules": [
+                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                ],
+                "sections": [
+                    {
+                        "name": "She's upset with you",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 587,
+                        "y": 1117
+                    }
+                ]
+            },
+            {
+                "name": "Lucina",
+                "access_rules": [
+                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                ],
+                "sections": [
+                    {
+                        "name": "\"Dammit Harb\"",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 324,
+                        "y": 805
+                    }
+                ]
+            },
+            {
+                "name": "Epsilon",
+                "access_rules": [
+                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                ],
+                "sections": [
+                    {
+                        "name": "Check out the Snailiad+ project!",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 636,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Druid",
+                "access_rules": [
+                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                ],
+                "sections": [
+                    {
+                        "name": "King of the game",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 348,
+                        "y": 684
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Main Caves",
+        "children": [
+            {
+                "name": "Vertical Spike Puzzle",
+                "access_rules": [
+                    "Bombs",
+                    "Power Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Upper",
+                        "access_rules": [
+                            "Bombs",
+                            "Space Jump"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1115,
+                        "y": 383
+                    }
+                ]
+            },
+            {
+                "name": "Crumble Spike Room",
+                "access_rules": [
+                    "Bombs",
+                    "Power Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "no IBJ required",
+                        "access_rules": [
+                            "Hi Jump",
+                            "Space Jump"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1188,
+                        "y": 467
+                    }
+                ]
+            },
+            {
+                "name": "Shinespark Before the drop",
+                "access_rules": [
+                    "Speed Booster"
+                ],
+                "sections": [
+                    {
+                        "name": "Speed Booster is fun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1044,
+                        "y": 706
+                    }
+                ]
+            },
+            {
+                "name": "Shinespark After the drop",
+                "access_rules": [
+                    "Speed Booster"
+                ],
+                "sections": [
+                    {
+                        "name": "Speed Booster is still fun",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1070,
+                        "y": 975
+                    }
+                ]
+            },
+            {
+                "name": "Spike \"Maze\"",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Terrible Maze but the item is hidden",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1163,
+                        "y": 554
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Golden Temple",
+        "children": [
+            {
+                "name": "Bombs Room",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bombs",
+                        "access_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Below Bombs",
+                        "access_rules": ["Bombs","Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1378,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Hidden Energy Tank",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "\"I didn't know that's how the collision worked\"-Everyone",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1522,
+                        "y": 275
+                    }
+                ]
+            },
+            {
+                "name": "Armory",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Left",
+                        "access_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Upper",
+                        "access_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower",
+                        "access_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "False Wall",
+                        "access_rules": ["Bombs","Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1598,
+                        "y": 301
+                    }
+                ]
+            },
+            {
+                "name": "Puzzle Room",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Left",
+                        "access_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Upper",
+                        "access_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1499,
+                        "y": 228
+                    }
+                ]
+            },
+            {
+                "name": "Spider Ball",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Spider Ball is pretty cool",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1643,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Celling Item",
+                "access_rules": [
+                    "Speed Booster",
+                    "Space Jump",
+                    "Spider Ball",
+                    "Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "it's way up there",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1502,
+                        "y": 156
+                    }
+                ]
+            },
+            {
+                "name": "EMP Room",
+                "access_rules": [
+                    "Speed Booster, Spring Ball, Super Missiles, Power Bombs, Screw Attack",
+                    "Speed Booster, Spring Ball, Super Missiles, Bombs, Screw Attack"
+                ],
+                "sections": [
+                    {
+                        "name": "Do it in 1 go you know you want to",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1572,
+                        "y": 374
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Guardian",
+        "children": [
+            {
+                "name": "Ancient Guardian",
+                "access_rules": ["Bombs", "Power Bombs"],
+                "sections": [
+                    {
+                        "name": "Above Guardian",
+                        "access_rules": [
+                            "Spider Ball",
+                            "Space Jump",
+                            "Bombs"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name:": "Behind the Door",
+                        "access_rules": [
+                            "Power Bombs, Spider Ball",
+                            "Power Bombs, Space Jump",
+                            "Power Bombs, Bombs"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1200,
+                        "y": 252
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hydro Station",
+        "children": [
+            {
+                "name": "Cliff",
+                "access_rules": ["Bombs", "Space Jump"],
+                "sections": [
+                    {
+                        "name": "Actually you can morph glide to this one",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 900,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "Morph Tunnel",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "I don't have anything clever for this one",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 852,
+                        "y": 445
+                    }
+                ]
+            },
+            {
+                "name": "Turbine Room",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "It's ok to hide here the Turbine Terror is scary",
+                        "access_rules": ["Bombs", "Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 756,
+                        "y": 514
+                    }
+                ]
+            },
+            {
+                "name": "Not so Secret Tunnel",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "You can see this one before you get it",
+                        "access_rules": ["Hi Jump", "Space Jump", "Spider Ball", "Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 781,
+                        "y": 540
+                    }
+                ]
+            },
+            {
+                "name": "Watter Puzzle",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "WHEEEEEEEE!",
+                        "access_rules": ["Bombs", "Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 851,
+                        "y": 468
+                    }
+                ]
+            },
+            {
+                "name": "Varia Suit",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "They put it behind a fake statue",
+                        "access_rules": ["Bombs", "Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 757,
+                        "y": 468
+                    }
+                ]
+            },
+            {
+                "name": "Arachnus",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Ball",
+                        "access_rules": ["Bombs", "Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 802,
+                        "y": 420
+                    }
+                ]
+            },
+            {
+                "name": "EMP Room",
+                "access_rules": ["Ice Beam", "Screw Attack"],
+                "sections": [
+                    {
+                        "name": "Supers not required",
+                        "access_rules": ["Super Missiles, Speed Booster"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 590,
+                        "y": 491
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Inner Hydro",
+        "access_rules": ["Screw Attack", "Bombs", "Power Bombs"],
+        "children": [
+            {
+                "name": "Wave Beam",
+                "access_rules": ["Bombs", "Power Bombs"],
+                "sections": [
+                    {
+                        "name": "MMMM Wave Beam",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 779,
+                        "y": 515
+                    }
+                ]
+            },
+            {
+                "name": "Below Tower Pipe",
+                "access_rules": ["Bombs", "Power Bombs"],
+                "sections": [
+                    {
+                        "name": "Upper",
+                        "access_rules": ["Hi Jump", "Space Jump", "Spider Ball", "Bombs"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 855,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Dead End Item",
+                "access_rules": ["Bombs", "Power Bombs"],
+                "sections": [
+                    {
+                        "name": "It's a dead end but there's an item there",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 828,
+                        "y": 588
+                    }
+                ]
+            },
+            {
+                "name": "Hi Jump Boots",
+                "sections": [
+                    {
+                        "name": "Best item don't @ me",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 899,
+                        "y": 588
+                    }
+                ]
+            },
+            {
+                "name": "Behind Hi Jump Boots",
+                "access_rules": ["Bombs", "Power Bombs"],
+                "sections": [
+                    {
+                        "name": "Upper",
+                        "access_rules": ["Hi Jump", "Space Jump", "Spider Ball", "Bombs"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 878,
+                        "y": 588
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hydro Nest",
+        "access_rules": ["Hi Jump", "Space Jump", "Bombs"],
+        "children": [
+            {
+                "name": "Below the walkway",
+                "sections": [
+                    {
+                        "name": "It's in the floor",
+                        "access_rules": ["Bombs", "Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 589,
+                        "y": 589
+                    }
+                ]
+            },
+            {
+                "name": "Speed Celling",
+                "sections": [
+                    {
+                        "name": "It's in the celling",
+                        "access_rules": ["Speed Booster"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 515,
+                        "y": 518
+                    }
+                ]
+            },
+            {
+                "name": "Behind the wall",
+                "access_rules": ["Power Bombs, Screw Attack", "Power Bombs, Speed Booster"],
+                "sections": [
+                    {
+                        "name": "Its just chilling there",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 468,
+                        "y": 518
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "A3",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Above The Save",
+                "sections": [
+                    {
+                        "name": "just shoot the wall",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Below the walkway",
+                "sections": [
+                    {
+                        "name": "It's in the floor",
+                        "access_rules": ["Bombs", "Power Bombs"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 589,
+                        "y": 589
+                    }
+                ]
+            },
+            {
+                "name": "Speed Celling",
+                "sections": [
+                    {
+                        "name": "It's in the celling",
+                        "access_rules": ["Speed Booster"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 515,
+                        "y": 518
+                    }
+                ]
+            },
+            {
+                "name": "Behind the wall",
+                "access_rules": ["Power Bombs, Screw Attack", "Power Bombs, Speed Booster"],
+                "sections": [
+                    {
+                        "name": "Its just chilling there",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 468,
+                        "y": 518
+                    }
+                ]
+            }
+        ]
+    }
+]
