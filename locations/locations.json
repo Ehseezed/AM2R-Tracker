@@ -1546,7 +1546,7 @@
                             "Super Missiles, Speed Booster, Spiderball",
                             "Super Missiles, Speed Booster, Space Jump",
                             "Super Missiles, Speed Booster, Hi Jump",
-                            "Super Missiles, Speed Booster, Bombs",
+                            "Super Missiles, Speed Booster, Bombs"
                             
                         ],
                         "item_count": 1
@@ -1560,6 +1560,206 @@
                     }
                 ]
             },
+            {
+                "name": "In the Sand",
+                "sections": [
+                    {
+                        "name": "sand code joke",
+                        "access_rules": [
+                            "Speed Booster",
+                            "Bombs",
+                            "Power Bombs",
+                            "Screw Attack, Bombs",
+                            "Screw Attack, Power Bombs"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1380,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Complex Side Tunnel",
+                "access_rules": ["Speed Booster", "Bombs", "Power Bombs, Space Jump", "Power Bombs, Speed Booster", "Power Bombs, Spider Ball", "Screw Attack, Bombs", "Screw Attack, Power Bombs"],
+                "sections": [
+                    {
+                        "name": "Break the missile block",
+                        "access_rules": [
+                            
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Break the bomb block",
+                        "access_rules": [
+                            "Bombs",
+                            "Power Bombs"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1548,
+                        "y": 516
+                    }
+                ]
+            },
+            {
+                "name": "Behind the Green Door",
+                "sections": [
+                    {
+                        "name": "The only green door",
+                        "access_rules": [
+                            "Super Missiles, Speed Booster, Power Bombs"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1620,
+                        "y": 444
+                    }
+                ]
+            },
+            {
+                "name": "Save Room",
+                "sections": [
+                    {
+                        "name": "Also in the sand...",
+                        "access_rules": [
+                            "Speed Booster",
+                            "Bombs",
+                            "Power Bombs, Space Jump",
+                            "Power Bombs, Speed Booster",
+                            "Power Bombs, Spider Ball",
+                            "Screw Attack, Bombs",
+                            "Screw Attack, Power Bombs"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1548,
+                        "y": 492
+                    }
+                ]
+            },
+            {
+                "name": "Spazer",
+                "sections": [
+                    {
+                        "name": "sample text",
+                        "access_rules": [
+                            "Speed Booster",
+                            "Bombs",
+                            "Power Bombs, Space Jump",
+                            "Power Bombs, Speed Booster",
+                            "Power Bombs, Spider Ball",
+                            "Screw Attack, Bombs",
+                            "Screw Attack, Power Bombs"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1404,
+                        "y": 564
+                    }
+                ]
+            },
+            {
+                "name": "Gamma Spark",
+                "sections": [
+                    {
+                        "name": "sample text",
+                        "access_rules": [
+                            "Speed Booster"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1548,
+                        "y": 540
+                    }
+                ]
+            },
+            {
+                "name": "Speed Booster",
+                "sections": [
+                    {
+                        "name": "sample text",
+                        "access_rules": [
+                            "Bombs",
+                            "Power Bombs, Space Jump",
+                            "Power Bombs, Speed Booster",
+                            "Power Bombs, Spider Ball",
+                            "Screw Attack, Bombs",
+                            "Screw Attack, Power Bombs"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1428,
+                        "y": 612
+                    }
+                ]
+            },
+            {
+                "name": "Torizo Ascended: Boss",
+                "sections": [
+                    {
+                        "name": "It's alive!",
+                        "access_rules": [
+                            "Speed Booster",
+                            "Bombs",
+                            "Power Bombs",
+                            "Screw Attack, Bombs",
+                            "Screw Attack, Power Bombs"
+                            
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1452,
+                        "y": 540
+                    }
+                ]
+            },
+
+
+
+
+
+
         ]
     }
 ]
