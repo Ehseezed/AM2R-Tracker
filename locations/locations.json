@@ -382,9 +382,13 @@
                 "name": "BBHarbinger",
                 "access_rules": [
                     "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster",
+                    "Power Bombs, Speed Booster, Hi Jump",
+                    "Power Bombs, Speed Booster, Space Jump",
+                    "Power Bombs, Speed Booster, Spider Ball",
                     "Bombs, Super Missiles",
-                    "Power Bombs, Super Missiles"
+                    "Power Bombs, Super Missiles, Hi Jump",
+                    "Power Bombs, Super Missiles, Space Jump",
+                    "Power Bombs, Super Missiles, Spider Ball"
                 ],
                 "sections": [
                     {
@@ -404,9 +408,13 @@
                 "name": "The Abyssal Creature",
                 "access_rules": [
                     "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster",
+                    "Power Bombs, Speed Booster, Hi Jump",
+                    "Power Bombs, Speed Booster, Space Jump",
+                    "Power Bombs, Speed Booster, Spider Ball",
                     "Bombs, Super Missiles",
-                    "Power Bombs, Super Missiles"
+                    "Power Bombs, Super Missiles, Hi Jump",
+                    "Power Bombs, Super Missiles, Space Jump",
+                    "Power Bombs, Super Missiles, Spider Ball"
                 ],
                 "sections": [
                     {
@@ -605,8 +613,8 @@
             },
             {
                 "name": "Anakin",
-                "access_rules": [,
-                    "Space Jump",,
+                "access_rules": [
+                    "Space Jump",
                     "Bombs"
                 ],
                 "sections": [
@@ -1160,11 +1168,11 @@
                         "item_count": 1
                     },
                     {
-                        "name:": "Behind The Door",
+                        "name": "Behind The Door",
                         "access_rules": [
                             "Power Bombs, Spider Ball",
                             "Power Bombs, Space Jump",
-                            "Power Bombs, Bombs",
+                            "Power Bombs, Bombs"
                         ],
                         "item_count": 1
                     }
