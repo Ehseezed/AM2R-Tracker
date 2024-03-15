@@ -776,7 +776,8 @@
             {
                 "name": "Little Bro",
                 "access_rules": [
-                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Bombs",
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Power Bombs, Space Jump"
                 ],
                 "sections": [
                     {
@@ -795,7 +796,8 @@
             {
                 "name": "Big Sis",
                 "access_rules": [
-                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Bombs",
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Power Bombs, Space Jump"
                 ],
                 "sections": [
                     {
@@ -814,7 +816,8 @@
             {
                 "name": "SA-X Queen Lucina",
                 "access_rules": [
-                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Bombs",
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Power Bombs, Space Jump"
                 ],
                 "sections": [
                     {
@@ -833,7 +836,8 @@
             {
                 "name": "Epsilon",
                 "access_rules": [
-                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Bombs",
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Power Bombs, Space Jump"
                 ],
                 "sections": [
                     {
@@ -852,7 +856,8 @@
             {
                 "name": "Druid",
                 "access_rules": [
-                    "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Bombs",
+                    "Speed Booster, Ice Beam, Super Missiles, Screw Attack, Power Bombs, Space Jump"
                 ],
                 "sections": [
                     {
@@ -1014,7 +1019,7 @@
                 "sections": [
                     {
                         "name": "\"I didn't know that's how the collision worked\"-Everyone",
-                        "access_rules": [],
+                        "access_rules": ["Bombs","Power Bombs"],
                         "item_count": 1
                     }
                 ],
