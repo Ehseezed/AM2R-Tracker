@@ -19,9 +19,9 @@
                             [ // beams
                                 "Charge Beam",
                                 "Wave Beam",
+                                "Ice Beam",
                                 "Spazer Beam",
-                                "Plasma Beam",
-                                "Ice Beam"
+                                "Plasma Beam"
                             ],
                             [ // suits + misc
                                 "Varia Suit",
@@ -37,7 +37,8 @@
                             [ // Boots
                                 "Hi Jump",
                                 "Space Jump",
-                                "Speed Booster"
+                                "Speed Booster",
+                                "Screw Attack"
                             ],
                             [ // ammos
                                 "Energy Tank",
