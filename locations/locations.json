@@ -1574,8 +1574,7 @@
                             "Speed Booster",
                             "Bombs",
                             "Power Bombs",
-                            "Screw Attack, Bombs",
-                            "Screw Attack, Power Bombs"
+                            "Screw Attack"
                             
                         ],
                         "item_count": 1
@@ -1591,7 +1590,7 @@
             },
             {
                 "name": "Complex Side Tunnel",
-                "access_rules": ["Speed Booster", "Bombs", "Power Bombs, Space Jump", "Power Bombs, Speed Booster", "Power Bombs, Spider Ball", "Screw Attack, Bombs", "Screw Attack, Power Bombs"],
+                "access_rules": ["Speed Booster", "Bombs", "Power Bombs, Space Jump", "Power Bombs, Speed Booster", "Power Bombs, Spider Ball", "Screw Attack"],
                 "sections": [
                     {
                         "name": "Tunnel",
@@ -1649,8 +1648,7 @@
                             "Power Bombs, Space Jump",
                             "Power Bombs, Speed Booster",
                             "Power Bombs, Spider Ball",
-                            "Screw Attack, Bombs",
-                            "Screw Attack, Power Bombs"
+                            "Screw Attack"
                             
                         ],
                         "item_count": 1
@@ -1675,8 +1673,7 @@
                             "Power Bombs, Space Jump",
                             "Power Bombs, Speed Booster",
                             "Power Bombs, Spider Ball",
-                            "Screw Attack, Bombs",
-                            "Screw Attack, Power Bombs"
+                            "Screw Attack"
                             
                         ],
                         "item_count": 1
@@ -1720,8 +1717,7 @@
                             "Power Bombs, Space Jump",
                             "Power Bombs, Speed Booster",
                             "Power Bombs, Spider Ball",
-                            "Screw Attack, Bombs",
-                            "Screw Attack, Power Bombs"
+                            "Screw Attack"
                             
                         ],
                         "item_count": 1
@@ -1744,8 +1740,7 @@
                             "Speed Booster",
                             "Bombs",
                             "Power Bombs",
-                            "Screw Attack, Bombs",
-                            "Screw Attack, Power Bombs"
+                            "Screw Attack"
                             
                         ],
                         "item_count": 1
