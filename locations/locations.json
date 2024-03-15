@@ -619,7 +619,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Not longer on the High Ground",
+                        "name": "I don't like sand, it's coarse and rough and irritating and it gets everywhere",
                         "item_count": 1
                     }
                 ],
@@ -634,7 +634,7 @@
             {
                 "name": "Mr. Sandman",
                 "access_rules": [
-                    "Hi Jump",
+                    "Hi Jump, Speed Booster",
                     "Space Jump",
                     "Spider Ball",
                     "Bombs"
@@ -1155,7 +1155,7 @@
         "name": "Guardian",
         "children": [
             {
-                "name": "Ancient Guardian",
+                "name": "Ancient Guardian: Boss",
                 "access_rules": ["Bombs", "Power Bombs"],
                 "sections": [
                     {
@@ -1303,7 +1303,7 @@
                 ]
             },
             {
-                "name": "Arachnus",
+                "name": "Arachnus: Boss",
                 "access_rules": [],
                 "sections": [
                     {
@@ -1448,7 +1448,7 @@
         "access_rules": ["Hi Jump", "Space Jump", "Bombs"],
         "children": [
             {
-                "name": "Below the walkway",
+                "name": "Below the Walkway",
                 "sections": [
                     {
                         "name": "It's in the floor",
@@ -1468,7 +1468,7 @@
                 "name": "Speed Ceiling",
                 "sections": [
                     {
-                        "name": "When the celling goes speed",
+                        "name": "It's in the ceiling",
                         "access_rules": ["Speed Booster"],
                         "item_count": 1
                     }
@@ -1486,7 +1486,7 @@
                 "access_rules": ["Power Bombs, Screw Attack", "Power Bombs, Speed Booster"],
                 "sections": [
                     {
-                        "name": "Its just chilling there",
+                        "name": "It's in the wall",
                         "item_count": 1
                     }
                 ],
@@ -1541,7 +1541,7 @@
                 "name": "Nest Shinespark",
                 "sections": [
                     {
-                        "name": "Bunch of pincherflies everywhere around here huh?",
+                        "name": "Bunch of pincherflies around here huh?",
                         "access_rules": [
                             "Super Missiles, Speed Booster, Spiderball",
                             "Super Missiles, Speed Booster, Space Jump",
@@ -1564,7 +1564,7 @@
                 "name": "In the Sand",
                 "sections": [
                     {
-                        "name": "sand code joke",
+                        "name": "Oops I removed a 0",
                         "access_rules": [
                             "Speed Booster",
                             "Bombs",
@@ -1589,14 +1589,14 @@
                 "access_rules": ["Speed Booster", "Bombs", "Power Bombs, Space Jump", "Power Bombs, Speed Booster", "Power Bombs, Spider Ball", "Screw Attack, Bombs", "Screw Attack, Power Bombs"],
                 "sections": [
                     {
-                        "name": "Break the missile block",
+                        "name": "Tunnel",
                         "access_rules": [
                             
                         ],
                         "item_count": 1
                     },
                     {
-                        "name": "Break the bomb block",
+                        "name": "After Tunnel",
                         "access_rules": [
                             "Bombs",
                             "Power Bombs"
@@ -1663,7 +1663,7 @@
                 "name": "Spazer",
                 "sections": [
                     {
-                        "name": "sample text",
+                        "name": "T H E   S P A Z E R",
                         "access_rules": [
                             "Speed Booster",
                             "Bombs",
@@ -1689,7 +1689,7 @@
                 "name": "Gamma Spark",
                 "sections": [
                     {
-                        "name": "sample text",
+                        "name": "Shinespark Allowed",
                         "access_rules": [
                             "Speed Booster"
                             
@@ -1709,7 +1709,7 @@
                 "name": "Speed Booster",
                 "sections": [
                     {
-                        "name": "sample text",
+                        "name": "Speedrunner's Significant Other",
                         "access_rules": [
                             "Bombs",
                             "Power Bombs, Space Jump",
@@ -1753,7 +1753,7 @@
                         "y": 540
                     }
                 ]
-            },
+            }
 
 
 
