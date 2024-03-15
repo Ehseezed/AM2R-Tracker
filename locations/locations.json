@@ -8,7 +8,7 @@
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "Why'd you forget me",
+                        "name": "Why'd you forget me? :(",
                         "item_count": 1
                     }
                 ],
@@ -21,7 +21,7 @@
                 ]
             },
             {
-                "name": "Metroid Above Spider Ball",
+                "name": "Friendly Spider",
                 "access_rules": [
                     "Spider Ball",
                     "Bombs",
@@ -106,7 +106,7 @@
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "",
+                        "name": "Ur ur ur",
                         "item_count": 1
                     }
                 ],
@@ -161,7 +161,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "League and Warframe?",
+                        "name": "League and Warframe anyone?",
                         "item_count": 1
                     }
                 ],
@@ -246,7 +246,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "They see you",
+                        "name": "They see you, like real eyes",
                         "item_count": 1
                     }
                 ],
@@ -293,7 +293,7 @@
                 ]
             },
             {
-                "name": "Mimiolette",
+                "name": "Mimolette",
                 "access_rules": [
                     "Speed Booster, Bombs",
                     "Speed Booster, Power Bombs",
@@ -301,7 +301,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Aren't foxes cute",
+                        "name": "Aren't foxes cute? :D",
                         "item_count": 1
                     }
                 ],
@@ -344,7 +344,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "omg lojemiru hiii!!!",
+                        "name": "omg lojemiru hiii!!1!",
                         "item_count": 1
                     }
                 ],
@@ -366,7 +366,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "No need to resort to name calling period",
+                        "name": "No need to resort to name calling, period",
                         "item_count": 1
                     }
                 ],
@@ -410,7 +410,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Go check out Resplashed :)",
+                        "name": "Go check out Resplashed, plz :)",
                         "item_count": 1
                     }
                 ],
@@ -423,7 +423,7 @@
                 ]
             },
             {
-                "name": "Sysiphus",
+                "name": "Sisyphus",
                 "access_rules": [
                     "Spider Ball, Power Bombs",
                     "Space Jump, Power Bombs",
@@ -431,7 +431,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Denier of shine sparks",
+                        "name": "Denier of Shinesparks",
                         "item_count": 1
                     }
                 ],
@@ -452,7 +452,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "We dont like this guy very much",
+                        "name": "We dont like this guy very much, yeah, screw him",
                         "item_count": 1
                     }
                 ],
@@ -472,7 +472,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Cardio is important",
+                        "name": "Cardio is very important",
                         "item_count": 1
                     }
                 ],
@@ -485,14 +485,14 @@
                 ]
             },
             {
-                "name": "Rawsome",
+                "name": "Rawsome1234 by the Lava Lake",
                 "access_rules": [
                     "Speed Booster, Power Bombs",
                     "Speed Booster, Bombs"
                 ],
                 "sections": [
                     {
-                        "name": "Thats right hes also the problem",
+                        "name": "That's right, he's also the problem",
                         "item_count": 1
                     }
                 ],
@@ -591,7 +591,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "A great name for a pet",
+                        "name": "A great name for a pet :)",
                         "item_count": 1
                     }
                 ],
@@ -605,35 +605,13 @@
             },
             {
                 "name": "Anakin",
-                "access_rules": [
-                    "Hi Jump",
-                    "Space Jump",
-                    "Spider Ball",
+                "access_rules": [,
+                    "Space Jump",,
                     "Bombs"
                 ],
                 "sections": [
                     {
-                        "name": "Finally on the high ground",
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "map1",
-                        "x": 973,
-                        "y": 660
-                    }
-                ]
-            },
-            {
-                "name": "Mr. Sandman",
-                "access_rules": [
-                    "Space Jump",
-                    "Bombs"
-                ],
-                "sections": [
-                    {
-                        "name": "Bring me a dream",
+                        "name": "Not longer on the High Ground",
                         "item_count": 1
                     }
                 ],
@@ -646,13 +624,35 @@
                 ]
             },
             {
+                "name": "Mr. Sandman",
+                "access_rules": [
+                    "Hi Jump",
+                    "Space Jump",
+                    "Spider Ball",
+                    "Bombs"
+                ],
+                "sections": [
+                    {
+                        "name": "Bring me a dream",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 973,
+                        "y": 660
+                    }
+                ]
+            },
+            {
                 "name": "Xander",
                 "access_rules": [
                     "Space Jump"
                 ],
                 "sections": [
                     {
-                        "name": "Insane",
+                        "name": "Crazy? I was crazy once...",
                         "item_count": 1
                     }
                 ],
@@ -804,7 +804,7 @@
                 ]
             },
             {
-                "name": "Lucina",
+                "name": "SA-X Queen Lucina",
                 "access_rules": [
                     "$metroid|all"  // todo setup metroid counter that pulls max and uses that to dermine max and then expect that here
                 ],
@@ -848,7 +848,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "King of the game",
+                        "name": "Speedrunner King of the game",
                         "item_count": 1
                     }
                 ],
@@ -866,7 +866,7 @@
         "name": "Main Caves",
         "children": [
             {
-                "name": "Vertical Spike Puzzle",
+                "name": "Spider Ball Challenge",
                 "access_rules": [
                     "Bombs",
                     "Power Bombs"
@@ -894,7 +894,7 @@
                 ]
             },
             {
-                "name": "Crumble Spike Room",
+                "name": "Hi-Jump Challenge",
                 "access_rules": [
                     "Bombs",
                     "Power Bombs"
@@ -918,7 +918,7 @@
                 ]
             },
             {
-                "name": "Shinespark Before the drop",
+                "name": "Shinespark Before The Pit",
                 "access_rules": [
                     "Speed Booster"
                 ],
@@ -937,7 +937,7 @@
                 ]
             },
             {
-                "name": "Shinespark After the drop",
+                "name": "Shinespark After The Pit",
                 "access_rules": [
                     "Speed Booster"
                 ],
@@ -956,7 +956,7 @@
                 ]
             },
             {
-                "name": "Spike \"Maze\"",
+                "name": "Spiky \"Maze\"",
                 "access_rules": [],
                 "sections": [
                     {
@@ -1052,7 +1052,7 @@
                 ]
             },
             {
-                "name": "Puzzle Room",
+                "name": "3-Orb Hallway",
                 "access_rules": [],
                 "sections": [
                     {
@@ -1061,7 +1061,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Upper",
+                        "name": "Middle",
                         "access_rules": [],
                         "item_count": 1
                     },
@@ -1098,7 +1098,7 @@
                 ]
             },
             {
-                "name": "Celling Item",
+                "name": "Exterior Ceiling",
                 "access_rules": [
                     "Speed Booster",
                     "Space Jump",
@@ -1107,7 +1107,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "it's way up there",
+                        "name": "It's way up there",
                         "access_rules": [],
                         "item_count": 1
                     }
@@ -1128,7 +1128,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Do it in 1 go you know you want to",
+                        "name": "Do it in 1 go, you know you want to!",
                         "access_rules": [],
                         "item_count": 1
                     }
@@ -1151,7 +1151,7 @@
                 "access_rules": ["Bombs", "Power Bombs"],
                 "sections": [
                     {
-                        "name": "Above Guardian",
+                        "name": "Up Above",
                         "access_rules": [
                             "Spider Ball",
                             "Space Jump",
@@ -1160,12 +1160,13 @@
                         "item_count": 1
                     },
                     {
-                        "name:": "Behind the Door",
+                        "name:": "Behind The Door",
                         "access_rules": [
                             "Power Bombs, Spider Ball",
                             "Power Bombs, Space Jump",
-                            "Power Bombs, Bombs"
-                        ]
+                            "Power Bombs, Bombs",
+                        ],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1186,8 +1187,12 @@
                 "access_rules": ["Bombs", "Space Jump"],
                 "sections": [
                     {
-                        "name": "Actually you can morph glide to this one",
-                        "access_rules": [],
+                        "name": "Actually, you can morph glide to this one",
+                        "access_rules": [
+                            "Spider Ball",
+                            "Space Jump",
+                            "Bombs"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -1200,11 +1205,11 @@
                 ]
             },
             {
-                "name": "Morph Tunnel",
+                "name": "Side Morph Tunnel",
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "I don't have anything clever for this one",
+                        "name": "Don't you love failing the walljumps?",
                         "access_rules": [],
                         "item_count": 1
                     }
@@ -1222,7 +1227,7 @@
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "It's ok to hide here the Turbine Terror is scary",
+                        "name": "It's ok to hide here, the Turbine Terror is scary",
                         "access_rules": ["Bombs", "Power Bombs"],
                         "item_count": 1
                     }
@@ -1254,7 +1259,7 @@
                 ]
             },
             {
-                "name": "Watter Puzzle",
+                "name": "Water Pressure Pre-Varia",
                 "access_rules": [],
                 "sections": [
                     {
@@ -1294,7 +1299,7 @@
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "Ball",
+                        "name": "They see me rollin', they hatin'",
                         "access_rules": ["Bombs", "Power Bombs"],
                         "item_count": 1
                     }
@@ -1312,7 +1317,7 @@
                 "access_rules": ["Ice Beam", "Screw Attack"],
                 "sections": [
                     {
-                        "name": "Supers not required",
+                        "name": "Supers are only but a suggestion",
                         "access_rules": ["Super Missiles, Speed Booster"],
                         "item_count": 1
                     }
@@ -1372,11 +1377,11 @@
                 ]
             },
             {
-                "name": "Dead End Item",
+                "name": "Dead End",
                 "access_rules": ["Bombs", "Power Bombs"],
                 "sections": [
                     {
-                        "name": "It's a dead end but there's an item there",
+                        "name": "It's a dead end but hey, there's an item there",
                         "item_count": 1
                     }
                 ],
@@ -1389,7 +1394,7 @@
                 ]
             },
             {
-                "name": "Hi Jump Boots",
+                "name": "Hi-Jump Boots",
                 "sections": [
                     {
                         "name": "Best item don't @ me",
@@ -1406,7 +1411,7 @@
                 ]
             },
             {
-                "name": "Behind Hi Jump Boots",
+                "name": "Behind Hi-Jump Boots",
                 "access_rules": ["Bombs", "Power Bombs"],
                 "sections": [
                     {
@@ -1452,10 +1457,10 @@
                 ]
             },
             {
-                "name": "Speed Celling",
+                "name": "Speed Ceiling",
                 "sections": [
                     {
-                        "name": "It's in the celling",
+                        "name": "When the celling goes speed",
                         "access_rules": ["Speed Booster"],
                         "item_count": 1
                     }
@@ -1469,7 +1474,7 @@
                 ]
             },
             {
-                "name": "Behind the wall",
+                "name": "Behind The Wall",
                 "access_rules": ["Power Bombs, Screw Attack", "Power Bombs, Speed Booster"],
                 "sections": [
                     {
@@ -1488,69 +1493,65 @@
         ]
     },
     {
-        "name": "A3",
+        "name": "Industrial Complex Nest",
         "access_rules": [],
         "children": [
             {
-                "name": "Above The Save",
+                "name": "Above Save",
                 "sections": [
                     {
-                        "name": "just shoot the wall",
-                        "item_count": 1
-                    }
-                ]
-            },
-            {
-                "name": "Below the walkway",
-                "sections": [
-                    {
-                        "name": "It's in the floor",
-                        "access_rules": ["Bombs", "Power Bombs"],
+                        "name": "Just shoot at the wall bro",
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 589,
-                        "y": 589
+                        "x": 1243,
+                        "y": 540
                     }
                 ]
             },
             {
-                "name": "Speed Celling",
+                "name": "EMP Room",
                 "sections": [
                     {
-                        "name": "It's in the celling",
-                        "access_rules": ["Speed Booster"],
+                        "name": "Hey, it's another EMP puzzle, how lovely",
+                        "access_rules": ["Super Missiles, Power Bombs"],  
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 515,
-                        "y": 518
+                        "x": 1199,
+                        "y": 539
                     }
                 ]
             },
             {
-                "name": "Behind the wall",
-                "access_rules": ["Power Bombs, Screw Attack", "Power Bombs, Speed Booster"],
+                "name": "Nest Shinespark",
                 "sections": [
                     {
-                        "name": "Its just chilling there",
+                        "name": "Bunch of pincherflies everywhere around here huh?",
+                        "access_rules": [
+                            "Super Missiles, Speed Booster, Spiderball",
+                            "Super Missiles, Speed Booster, Space Jump",
+                            "Super Missiles, Speed Booster, Hi Jump",
+                            "Super Missiles, Speed Booster, Bombs",
+                            
+                        ],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 468,
-                        "y": 518
+                        "x": 1475,
+                        "y": 660
                     }
                 ]
-            }
+            },
         ]
     }
 ]
