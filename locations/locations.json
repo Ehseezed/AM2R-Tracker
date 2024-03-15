@@ -456,7 +456,8 @@
                 "access_rules": [
                     "Spider Ball, Power Bombs",
                     "Space Jump, Power Bombs",
-                    "Bombs"
+                    "Bombs",
+                    "Screw Attack"
                 ],
                 "sections": [
                     {
@@ -1590,7 +1591,12 @@
             },
             {
                 "name": "Complex Side Tunnel",
-                "access_rules": ["Speed Booster", "Bombs", "Power Bombs, Space Jump", "Power Bombs, Speed Booster", "Power Bombs, Spider Ball", "Screw Attack"],
+                "access_rules": ["Speed Booster", 
+                "Bombs", 
+                "Power Bombs, Space Jump", 
+                "Power Bombs, Speed Booster", 
+                "Power Bombs, Spider Ball", 
+                "Screw Attack"],
                 "sections": [
                     {
                         "name": "Tunnel",
@@ -1623,8 +1629,7 @@
                     {
                         "name": "The only green door",
                         "access_rules": [
-                            "Super Missiles, Speed Booster, Power Bombs"
-                            
+                            "Super Missiles, Speed Booster, Power Bombs"                            
                         ],
                         "item_count": 1
                     }
@@ -1648,8 +1653,7 @@
                             "Power Bombs, Space Jump",
                             "Power Bombs, Speed Booster",
                             "Power Bombs, Spider Ball",
-                            "Screw Attack"
-                            
+                            "Screw Attack"                            
                         ],
                         "item_count": 1
                     }
@@ -1673,8 +1677,7 @@
                             "Power Bombs, Space Jump",
                             "Power Bombs, Speed Booster",
                             "Power Bombs, Spider Ball",
-                            "Screw Attack"
-                            
+                            "Screw Attack"                            
                         ],
                         "item_count": 1
                     }
@@ -1693,8 +1696,7 @@
                     {
                         "name": "Shinespark Allowed",
                         "access_rules": [
-                            "Speed Booster"
-                            
+                            "Speed Booster"                            
                         ],
                         "item_count": 1
                     }
@@ -1713,12 +1715,12 @@
                     {
                         "name": "Speedrunner's Significant Other",
                         "access_rules": [
+                            "Speed Booster",  
                             "Bombs",
-                            "Power Bombs, Space Jump",
-                            "Power Bombs, Speed Booster",
-                            "Power Bombs, Spider Ball",
-                            "Screw Attack"
-                            
+                            "Power Bombs",
+                            "Screw Attack, Speed Booster",        
+                            "Screw Attack, Bombs",
+                            "Screw Attack, Power Bombs"                      
                         ],
                         "item_count": 1
                     }
@@ -1740,8 +1742,7 @@
                             "Speed Booster",
                             "Bombs",
                             "Power Bombs",
-                            "Screw Attack"
-                            
+                            "Screw Attack"  
                         ],
                         "item_count": 1
                     }
