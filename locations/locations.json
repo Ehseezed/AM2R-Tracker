@@ -16,7 +16,7 @@
                     {
                         "map": "map1",
                         "x": 492,
-                        "y": 349
+                        "y": 348
                     }
                 ]
             },
@@ -25,7 +25,8 @@
                 "access_rules": [
                     "Spider Ball",
                     "Bombs",
-                    "Space Jump"
+                    "Space Jump",
+                    "Speed Booster"
                 ],
                 "sections": [
                     {
@@ -37,7 +38,7 @@
                     {
                         "map": "map1",
                         "x": 1644,
-                        "y": 205
+                        "y": 204
                     }
                 ]
             },
@@ -57,7 +58,7 @@
                     {
                         "map": "map1",
                         "x": 1500,
-                        "y": 350
+                        "y": 348
                     }
                 ]
             },
@@ -76,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 1283,
-                        "y": 374
+                        "x": 1284,
+                        "y": 372
                     }
                 ]
             },
@@ -96,8 +97,8 @@
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 1433,
-                        "y": 374
+                        "x": 1428,
+                        "y": 372
                     }
                 ]
             },
@@ -242,7 +243,9 @@
                     "Bombs",
                     "Hi Jump",
                     "Space Jump",
-                    "Spider Ball"
+                    "Spider Ball",
+                    "Hi Jump",
+                    "Speed Booster"
                 ],
                 "sections": [
                     {
@@ -373,8 +376,8 @@
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 1430,
-                        "y": 589
+                        "x": 1426,
+                        "y": 588
                     }
                 ]
             },
@@ -435,6 +438,7 @@
                 "access_rules": [
                     "Spider Ball, Power Bombs",
                     "Space Jump, Power Bombs",
+                    "Speed Booster",
                     "Bombs"
                 ],
                 "sections": [
@@ -456,6 +460,7 @@
                 "access_rules": [
                     "Spider Ball, Power Bombs",
                     "Space Jump, Power Bombs",
+                    "Speed Booster",
                     "Bombs",
                     "Screw Attack"
                 ],
@@ -496,8 +501,10 @@
             {
                 "name": "Rawsome1234 by the Lava Lake",
                 "access_rules": [
-                    "Speed Booster, Power Bombs",
-                    "Speed Booster, Bombs"
+                    "Speed Booster, Power Bombs, Gravity Suit",
+                    "Speed Booster, Bombs, Gravity Suit",
+                    "Speed Booster, Power Bombs, Space Jump",
+                    "Speed Booster, Bombs, Space Jump"
                 ],
                 "sections": [
                     {
@@ -576,7 +583,8 @@
                 "name": "Variable",
                 "access_rules": [
                     "Bombs",
-                    "Space Jump"
+                    "Space Jump",
+                    "Speed Booster"
                 ],
                 "sections": [
                     {
@@ -614,10 +622,7 @@
             },
             {
                 "name": "Anakin",
-                "access_rules": [
-                    "Space Jump",
-                    "Bombs"
-                ],
+                "access_rules": ["Space Jump"],
                 "sections": [
                     {
                         "name": "I don't like sand, it's coarse and rough and irritating and it gets everywhere",
@@ -636,9 +641,7 @@
                 "name": "Mr. Sandman",
                 "access_rules": [
                     "Hi Jump, Speed Booster",
-                    "Space Jump",
-                    "Spider Ball",
-                    "Bombs"
+                    "Space Jump"
                 ],
                 "sections": [
                     {
@@ -676,9 +679,13 @@
             {
                 "name": "Sir Zeta",
                 "access_rules": [
-                    "Bombs, Ice Beam",
+                    "Bombs, Ice Beam, Super Missiles",
                     "Power Bombs, Ice Beam",
                     "Bombs, Screw Attack",
+                    "Gravity Suit, Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Bombs, Super Missiles",
+                    "Speed Booster, Bombs, Super Missiles",
+                    "Speed Booster, Power Bombs",
                     "Power Bombs, Screw Attack"
                 ],
                 "sections": [
@@ -698,9 +705,13 @@
             {
                 "name": "Alpha Squadron",
                 "access_rules": [
-                    "Bombs, Ice Beam",
+                    "Ice Beam, Super Missiles",
                     "Power Bombs, Ice Beam",
-                    "Screw Attack"
+                    "Screw Attack",
+                    "Speed Booster, Bombs, Super Missiles",
+                    "Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Super Missiles"
                 ],
                 "sections": [
                     {
@@ -727,7 +738,7 @@
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 1608,
+                        "x": 1609,
                         "y": 1080
                     }
                 ]
@@ -735,9 +746,13 @@
             {
                 "name": "Mario",
                 "access_rules": [
-                    "Super Missiles, Ice Beam",
-                    "Speed Booster, Gravity Suit, Ice Beam",
-                    "Screw Attack"
+                    "Ice Beam, Super Missiles",
+                    "Power Bombs, Ice Beam",
+                    "Screw Attack",
+                    "Speed Booster, Bombs, Super Missiles",
+                    "Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Super Missiles"
                 ],
                 "sections": [
                     {
@@ -756,9 +771,13 @@
             {
                 "name": "Luigi",
                 "access_rules": [
-                    "Super Missiles, Ice Beam",
-                    "Speed Booster, Gravity Suit, Ice Beam",
-                    "Screw Attack"
+                    "Ice Beam, Super Missiles",
+                    "Power Bombs, Ice Beam",
+                    "Screw Attack",
+                    "Speed Booster, Bombs, Super Missiles",
+                    "Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Super Missiles"
                 ],
                 "sections": [
                     {
@@ -1033,6 +1052,24 @@
                 ]
             },
             {
+                "name": "Charge Beam", // Lmao we forgot about this check dude
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Charge Beam is so useful!",
+                        "access_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1476,
+                        "y": 324
+                    }
+                ]
+            },
+            {
                 "name": "Armory",
                 "access_rules": [],
                 "sections": [
@@ -1136,14 +1173,14 @@
             },
             {
                 "name": "EMP Room",
-                "access_rules": [
-                    "Speed Booster, Spring Ball, Super Missiles, Power Bombs, Screw Attack",
-                    "Speed Booster, Spring Ball, Super Missiles, Bombs, Screw Attack"
-                ],
+                "access_rules": ["Ice Beam", "Screw Attack"],
                 "sections": [
                     {
                         "name": "Do it in 1 go, you know you want to!",
-                        "access_rules": [],
+                        "access_rules": [
+                            "Speed Booster, Spring Ball, Super Missiles, Power Bombs, Screw Attack",
+                        "Speed Booster, Spring Ball, Super Missiles, Bombs, Screw Attack"
+                    ],    
                         "item_count": 1
                     }
                 ],
@@ -1198,15 +1235,15 @@
         "children": [
             {
                 "name": "Cliff",
-                "access_rules": ["Bombs", "Space Jump"],
+                "access_rules": [                            "Spider Ball",
+                "Space Jump",
+                "Speed Booster",
+                "Bombs"
+            ],
                 "sections": [
                     {
                         "name": "Actually, you can morph glide to this one",
-                        "access_rules": [
-                            "Spider Ball",
-                            "Space Jump",
-                            "Bombs"
-                        ],
+                        "access_rules": [],
                         "item_count": 1
                     }
                 ],
@@ -1528,13 +1565,18 @@
             },
             {
                 "name": "EMP Room",
+                "access_rules": ["Ice Beam", "Screw Attack"],
                 "sections": [
                     {
                         "name": "Hey, it's another EMP puzzle, how lovely",
-                        "access_rules": ["Super Missiles, Power Bombs"],  
+                        "access_rules": [
+                            "Super Missiles, Power Bombs",
+                            "Super Missiles, Power Bombs"
+                        ],  
                         "item_count": 1
                     }
                 ],
+
                 "map_locations": [
                     {
                         "map": "map1",
@@ -1565,7 +1607,18 @@
                         "y": 660
                     }
                 ]
-            },
+            }
+    ]
+ }
+ ,{
+                "name": "Pre Industrial Complex",
+                "access_rules": [
+                "Speed Booster",
+                "Bombs",
+                "Power Bombs"
+            ],
+                "children": [
+                    
             {
                 "name": "In the Sand",
                 "sections": [
@@ -1728,21 +1781,111 @@
                 "map_locations": [
                     {
                         "map": "map1",
-                        "x": 1428,
+                        "x": 1427,
                         "y": 612
                     }
                 ]
             },
             {
                 "name": "Torizo Ascended: Boss",
+                "access_rules": [
+                    "Speed Booster",
+                    "Bombs",
+                    "Power Bombs",
+                    "Screw Attack"  
+                ],
                 "sections": [
+                    
                     {
                         "name": "It's alive!",
                         "access_rules": [
-                            "Speed Booster",
+                            "Hi Jump",
                             "Bombs",
-                            "Power Bombs",
-                            "Screw Attack"  
+                            "Spider Ball",
+                            "Space Jump"  
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1452,
+                        "y": 540
+                    }
+                ]
+            }
+
+
+
+
+
+
+        ]
+    }
+    ,{
+        "name": "Industrial Complex",
+        "access_rules": [
+        "Speed Booster"
+    ],
+        "children": [
+            
+            {
+                "name": "Conveyor Belt",
+                "sections": [
+                    {
+                        "name": "Did you know that the rock there is for alignment?",
+                        "access_rules": [
+                            "Speed Booster"                             
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1715,
+                        "y": 612
+                    }
+                ]
+            },
+            {
+                "name": "Doom Treadmill",
+                "sections": [
+                    {
+                        "name": "You still need to do more Cardio",
+                        "access_rules": [
+                            "Speed Booster, Power Bombs",
+                            "Speed Booster, Bombs"                             
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "map1",
+                        "x": 1571,
+                        "y": 588
+                    }
+                ]
+            },
+            {
+                "name": "Torizo Ascended: Boss",
+                "access_rules": [
+                    "Speed Booster",
+                    "Bombs",
+                    "Power Bombs",
+                    "Screw Attack"  
+                ],
+                "sections": [
+                    
+                    {
+                        "name": "It's alive!",
+                        "access_rules": [
+                            "Hi Jump",
+                            "Bombs",
+                            "Spider Ball",
+                            "Space Jump"  
                         ],
                         "item_count": 1
                     }
