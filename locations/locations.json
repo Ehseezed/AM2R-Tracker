@@ -1086,7 +1086,7 @@
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "Xander's Vain",
+                        "name": "Concealed",
                         "access_rules": [],
                         "item_count": 1
                     }
@@ -1672,7 +1672,7 @@
                 "name": "Above Save",
                 "sections": [
                     {
-                        "name": "Just shoot at the wall bro",
+                        "name": "Just shoot at the wall dude",
                         "item_count": 1
                     }
                 ],
@@ -2665,7 +2665,7 @@
                 "name": "Gravity Suit",
                 "sections": [
                     {
-                        "name": "Pink Suit besto suit, change my mind",
+                        "name": "Pink Suit best suit, change my mind",
                         "access_rules": [
                             "Power Bombs",
                             "Bombs"
