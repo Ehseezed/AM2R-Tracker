@@ -52,7 +52,7 @@
                         },
                         {
                             "type": "group",
-                            "header": "Miscelanious",
+                            "header": "Miscellaneous",
                             "dock": "top",
                             "margin": "0,0,0,0",
                             "content": {
@@ -106,7 +106,7 @@
                         },
                         {
                             "type": "group",
-                            "header": "Countables",
+                            "header": "Miscellaneous",
                             "dock": "bottom",
                             "margin": "0,0,3,0",
                             "content": {
