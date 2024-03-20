@@ -60,6 +60,7 @@
         "type": "toggle",
         "img": "images/items/Morph.png",
         "codes": "Morph Ball",
+        "disabled_img_mods": "none",  // temp fix
         "initial_active_state": "true"
     },
     {
@@ -85,6 +86,7 @@
         "type": "toggle",
         "img": "images/items/Power_Grip.png",
         "codes": "Power Grip",
+        "disabled_img_mods": "none",  // temp fix
         "initial_active_state": "true"
     },
     {
