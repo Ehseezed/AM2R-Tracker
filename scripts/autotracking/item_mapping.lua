@@ -21,5 +21,6 @@ ITEM_MAPPING = {
     [8678003] = {"Energy Tank", "consumable"},
     [8678000] = {"Missiles", "consumable"},
     [8678001] = {"Super Missiles", "consumable"},
-    [8678002] = {"Power Bombs", "consumable"}
+    [8678002] = {"Power Bombs", "consumable"},
+    [8678025] = {"DNA", "consumable"}
 }
