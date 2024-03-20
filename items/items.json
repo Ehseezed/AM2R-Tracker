@@ -16,7 +16,7 @@
         "name": "Energy Tank",
         "type": "consumable",
         "img": "images/items/Energy_Tank.png",
-        "max_quantity": 10,
+        "max_quantity": 100,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
@@ -46,7 +46,8 @@
         "name": "Missiles",
         "type": "consumable",
         "img": "images/items/Missile.png",
-        "max_quantity": 44,
+        "disabled_img_mods": "none",
+        "max_quantity": 100,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
@@ -58,7 +59,8 @@
         "name": "Morph Ball",
         "type": "toggle",
         "img": "images/items/Morph.png",
-        "codes": "Morph Ball"
+        "codes": "Morph Ball",
+        "initial_active_state": "true"
     },
     {
         "name": "Plasma Beam",
@@ -70,7 +72,7 @@
         "name": "Power Bombs",
         "type": "consumable",
         "img": "images/items/Power_Bombs.png",
-        "max_quantity": 10,
+        "max_quantity": 100,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
@@ -82,7 +84,8 @@
         "name": "Power Grip",
         "type": "toggle",
         "img": "images/items/Power_Grip.png",
-        "codes": "Power Grip"
+        "codes": "Power Grip",
+        "initial_active_state": "true"
     },
     {
         "name": "Screw Attack",
@@ -142,12 +145,25 @@
         "name": "Super Missiles",
         "type": "consumable",
         "img": "images/items/Super.png",
-        "max_quantity": 10,
+        "max_quantity": 100,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
         "overlay_background": "#000000",
         "overlay_font_size": 8,
         "codes": "Super Missiles"
+    },
+    {
+        "name": "DNA",
+        "type": "consumable",
+        "img": "images/items/DNA.png",
+        "disabled_img_mods": "none",
+        "max_quantity": 46,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 8,
+        "codes": "DNA"
     }
 ]
