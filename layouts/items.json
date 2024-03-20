@@ -8,7 +8,7 @@
         "content": [
             {
                 "type": "array",
-                "orientation": "horizontal",
+                "orientation": "Vertical",
                 "margin": "0,0",
                 "content": [
                     {
@@ -39,15 +39,62 @@
                                 "Space Jump",
                                 "Speed Booster",
                                 "Screw Attack"
-                            ],
-                            [ // ammos
-                                "Energy Tank",
-                                "Missiles",
-                                "Super Missiles",
-                                "Power Bombs"
                             ]
                         ]
                     }
+                ]
+            }
+        ]
+    },
+    "DNA_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "6,3",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "rows": [
+                    [],
+                    [
+                        "Missiles",
+                        "Super Missiles",
+                        "Power Bombs"
+                    ],
+                    [
+                        "DNA",
+                        "Energy Tank"
+                    ]
+                ]
+            }
+        ]
+    },
+    "DNA_item_grid_v": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "6,3",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "rows": [
+                    [
+                        "",
+                        "Missiles",
+                        "Super Missiles",
+                        "Power Bombs",
+                        ""
+                    ],
+                    [
+                        "",
+                        "DNA",
+                        "Energy Tank",
+                        ""
+                    ]
                 ]
             }
         ]
