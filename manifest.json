@@ -7,7 +7,7 @@
     "package_version": "1.1.0",
     "package_uid": "AM2R",
     "platform": "PC",
-    "author": "Cyb3R",
+    "author": "Ehseezed",
     "variants": {
         "standard": {
             "display_name": "Map Tracker",
@@ -15,5 +15,6 @@
                 "ap" //enables AP autotracking interface - remove if not needed
             ]
         }
-    }
+    },
+    "versions_url": "https://raw.githubusercontent.com/Ehseezed/AM2R-Tracker/main/version.json"
 }
