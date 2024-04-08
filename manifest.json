@@ -4,9 +4,9 @@
 {
     "name": "AM2R Tracker",
     "game_name": "AM2R",
-    "package_version": "1.0.0",
+    "package_version": "1.1.0",
     "package_uid": "AM2R",
-    "platform": "PC", //enables SNES memory autotracking interface - remove/change if not needed
+    "platform": "PC",
     "author": "Cyb3R",
     "variants": {
         "standard": {
