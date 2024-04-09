@@ -299,7 +299,6 @@
                 "name": "Mimolette",
                 "access_rules": [
                     "Speed Booster, Bombs",
-                    "Speed Booster, Power Bombs",
                     "Super Missiles"
                 ],
                 "sections": [
@@ -320,7 +319,6 @@
                 "name": "The Big Cheese",
                 "access_rules": [
                     "Speed Booster, Bombs",
-                    "Speed Booster, Power Bombs",
                     "Super Missiles"
                 ],
                 "sections": [
@@ -341,9 +339,8 @@
                 "name": "Mohwir",
                 "access_rules": [
                     "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster",
                     "Bombs, Super Missiles",
-                    "Power Bombs, Super Missiles"
+                    "Power Bombs:2, Super Missiles"
                 ],
                 "sections": [
                     {
@@ -363,9 +360,8 @@
                 "name": "Chirn",
                 "access_rules": [
                     "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster",
                     "Bombs, Super Missiles",
-                    "Power Bombs, Super Missiles"
+                    "Power Bombs:2, Super Missiles"
                 ],
                 "sections": [
                     {
@@ -385,7 +381,6 @@
                 "name": "BBHarbinger",
                 "access_rules": [
                     "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster, Hi Jump",
                     "Power Bombs, Speed Booster, Space Jump",
                     "Power Bombs, Speed Booster, Spider Ball",
                     "Bombs, Super Missiles",
@@ -411,7 +406,6 @@
                 "name": "The Abyssal Creature",
                 "access_rules": [
                     "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster, Hi Jump",
                     "Power Bombs, Speed Booster, Space Jump",
                     "Power Bombs, Speed Booster, Spider Ball",
                     "Bombs, Super Missiles",
@@ -481,7 +475,7 @@
             {
                 "name": "Guardian of Doom Treadmill",
                 "access_rules": [
-                    "Speed Booster, Power Bombs",
+                    "Speed Booster, Power Bombs:2",
                     "Speed Booster, Bombs"
                 ],
                 "sections": [
@@ -604,7 +598,7 @@
                 "name": "Slagathor",
                 "access_rules": [
                     "Bombs",
-                    "Power Bombs"
+                    "Power Bombs:3"
                 ],
                 "sections": [
                     {
@@ -680,13 +674,13 @@
                 "name": "Sir Zeta",
                 "access_rules": [
                     "Bombs, Ice Beam, Super Missiles",
-                    "Power Bombs, Ice Beam",
+                    "Power Bombs:2, Ice Beam",
                     "Bombs, Screw Attack",
-                    "Gravity Suit, Speed Booster, Power Bombs",
+                    "Gravity Suit, Speed Booster, Power Bombs:2",
                     "Gravity Suit, Speed Booster, Bombs, Super Missiles",
                     "Speed Booster, Bombs, Super Missiles",
-                    "Speed Booster, Power Bombs",
-                    "Power Bombs, Screw Attack"
+                    "Speed Booster, Power Bombs:2",
+                    "Power Bombs:2, Screw Attack"
                 ],
                 "sections": [
                     {
@@ -905,7 +899,7 @@
                         "name": "Does anyone even use Spider Ball for this?",
                         "access_rules": [
                             "Bombs",
-                            "Space Jump, Power Bombs"
+                            "Space Jump, Power Bombs:3"
                         ],
                         "item_count": 1
                     }
@@ -925,7 +919,7 @@
                         "name": "You either missed it on your first playthrough or were bombing every block",
                         "access_rules": [
                             "Bombs",
-                            "Power Bombs"
+                            "Power Bombs:3"
                         ],
                         "item_count": 1
                     }
@@ -942,7 +936,7 @@
                 "name": "Hi-Jump Challenge",
                 "access_rules": [
                     "Bombs",
-                    "Power Bombs"
+                    "Power Bombs:2"
                 ],
                 "sections": [
                     {
@@ -1033,7 +1027,7 @@
                     },
                     {
                         "name": "Below Bombs",
-                        "access_rules": ["Bombs","Power Bombs"],
+                        "access_rules": ["Bombs","Power Bombs:2"],
                         "item_count": 1
                     }
                 ],
@@ -1051,7 +1045,7 @@
                 "sections": [
                     {
                         "name": "\"I didn't know that's how the collision worked\"-Everyone",
-                        "access_rules": ["Bombs","Power Bombs"],
+                        "access_rules": ["Bombs","Power Bombs:2"],
                         "item_count": 1
                     }
                 ],
@@ -1267,9 +1261,9 @@
                     {
                         "name": "Guardian's big reward >:D",
                         "access_rules": [
-                            "Power Bombs, Spider Ball",
-                            "Power Bombs, Space Jump",
-                            "Power Bombs, Bombs"                            
+                            "Power Bombs:2, Spider Ball",
+                            "Power Bombs:2, Space Jump",
+                            "Power Bombs:2, Bombs"
                         ],
                         "item_count": 1
                     }
@@ -1401,7 +1395,7 @@
                         "name": "WHEEEEEEEE!",
                         "access_rules": [
                             "Bombs", 
-                            "Power Bombs"
+                            "Power Bombs:3"
                         ],
                         "item_count": 1
                     }
@@ -1422,7 +1416,7 @@
                         "name": "They put it behind a fake statue",
                         "access_rules": [
                             "Bombs", 
-                            "Power Bombs"
+                            "Power Bombs:2"
                         ],
                         "item_count": 1
                     }
@@ -1443,7 +1437,7 @@
                         "name": "They see me rollin', they hatin'",
                         "access_rules": [
                             "Bombs", 
-                            "Power Bombs"
+                            "Power Bombs:4"
                         ],
                         "item_count": 1
                     }
@@ -1484,14 +1478,14 @@
         "access_rules": [
             "Screw Attack", 
         "Bombs", 
-        "Power Bombs"
+        "Power Bombs:2"
     ],
         "children": [
             {
                 "name": "Wave Beam",
                 "access_rules": [
                     "Bombs", 
-                    "Power Bombs"
+                    "Power Bombs:3"
                 ],
                 "sections": [
                     {
@@ -1509,7 +1503,7 @@
             },
             {
                 "name": "Below Tower Pipe Upper",
-                "access_rules": ["Bombs", "Power Bombs"],
+                "access_rules": ["Bombs", "Power Bombs:2"],
                 "sections": [
                     {
                         "name": "The Autoad is trying to reach it",
@@ -1532,7 +1526,7 @@
             },
             {
                 "name": "Below Tower Pipe Lower",
-                "access_rules": ["Bombs", "Power Bombs"],
+                "access_rules": ["Bombs", "Power Bombs:3"],
                 "sections": [
                     {
                         "name": "I bet you can ballspark through the tunnel",
@@ -1584,7 +1578,7 @@
             },
             {
                 "name": "Behind Hi-Jump Boots",
-                "access_rules": ["Bombs", "Power Bombs"],
+                "access_rules": ["Bombs", "Power Bombs:3"],
                 "sections": [
                     {
                         "name": "Upper",
@@ -2007,7 +2001,7 @@
                     {
                         "name": "You still need to do more Cardio",
                         "access_rules": [
-                            "Speed Booster, Power Bombs",
+                            "Speed Booster, Power Bombs:2",
                             "Speed Booster, Bombs"                             
                         ],
                         "item_count": 1
@@ -2153,7 +2147,7 @@
                 "sections": [
                     {
                         "name": "Fun fact: Genesis is an enemy from Metroid Fusion!",
-                        "access_rules": ["Power Bombs"],
+                        "access_rules": ["Power Bombs:2", "Bombs, Power Bombs"],
                         "item_count": 1
                     }
                 ],
@@ -2233,7 +2227,7 @@
                 "name": "Dark Maze",
                 "access_rules":[
                     "Bombs",
-                    "Power Bombs"
+                    "Power Bombs:4"
                 ],
                 "sections": [
                     {
@@ -2254,7 +2248,7 @@
                 "name": "After Dark Maze",
                 "access_rules":[
                     "Bombs",
-                    "Power Bombs"
+                    "Power Bombs:4"
                 ],
                 "sections": [
                     {
@@ -2294,7 +2288,7 @@
         "name": "Tester",
         "access_rules":[
             "Bombs",
-            "Power Bombs"
+            "Power Bombs:2"
         ],
         "children":[
             {
@@ -2319,7 +2313,7 @@
                 "sections": [
                     {
                         "name": "More weapons? Hell yeah",
-                        "access_rules": ["Power Bombs"],
+                        "access_rules": ["Power Bombs:2"],
                         "item_count": 1
                     }
                 ],
@@ -2337,7 +2331,7 @@
     ,{ 
         "name": "Geothermal",
         "access_rules":[
-            "Power Bombs, Speed Booster"
+            "Power Bombs:3, Speed Booster"
         ],
         "children":[
             {
@@ -2363,7 +2357,7 @@
                     {
                         "name": "You wish it was an Energy Tank right about now",
                         "access_rules": [
-                            "Power Bombs",
+                            "Power Bombs:3",
                             "Bombs"
                     ],
                         "item_count": 1
@@ -2667,7 +2661,7 @@
                     {
                         "name": "Pink Suit best suit, change my mind",
                         "access_rules": [
-                            "Power Bombs",
+                            "Power Bombs:2",
                             "Bombs"
                         ],
                         "item_count": 1
