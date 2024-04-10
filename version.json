@@ -2,7 +2,7 @@
     "versions": [
         {
             "package_version": "1.2.2",
-            "download_url": "https://github.com/Ehseezed/AM2R-Tracker/releases/download/1.2.1/AM2R.zip",
+            "download_url": "https://github.com/Ehseezed/AM2R-Tracker/releases/download/1.2.2/AM2R.zip",
             "sha256": "A4289A7B640A1A6A8DAE34C58D576504599688861F6888D371166F3711D43582",
             "changelog": ["add auto updater and re-work autotracking"]
         },
