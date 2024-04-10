@@ -456,7 +456,9 @@
                     "Space Jump, Power Bombs",
                     "Speed Booster",
                     "Bombs",
-                    "Screw Attack"
+                    "Screw Attack, Spider Ball",
+                    "Screw Attack, Hi Jump",
+                    "Screw Attack, Space Jump"
                 ],
                 "sections": [
                     {
@@ -495,14 +497,16 @@
             {
                 "name": "Rawsome1234 by the Lava Lake",
                 "access_rules": [
-                    "Speed Booster, Power Bombs, Gravity Suit",
-                    "Speed Booster, Bombs, Gravity Suit",
-                    "Speed Booster, Power Bombs, Space Jump",
-                    "Speed Booster, Bombs, Space Jump"
+                    "Speed Booster, Power Bombs:2",
+                    "Speed Booster, Bombs"
                 ],
                 "sections": [
                     {
                         "name": "That's right, he's also the problem",
+                        "access_rules": [
+                    "Gravity Suit",
+                    "Space Jump"
+                ],
                         "item_count": 1
                     }
                 ],
@@ -517,12 +521,16 @@
             {
                 "name": "Unga",
                 "access_rules": [
-                    "Super Missiles, Spider Ball",
-                    "Super Missiles, Space Jump"
+                    "Super Missiles, Power Bombs",
+                    "Super Missiles, Bombs"
                 ],
                 "sections": [
                     {
                         "name": "Unga Bunga",
+                        "access_rules": [
+                    "Spider Ball",
+                    "Space Jump"
+                ],
                         "item_count": 1
                     }
                 ],
@@ -537,12 +545,16 @@
             {
                 "name": "Gunga",
                 "access_rules": [
-                    "Super Missiles, Spider Ball",
-                    "Super Missiles, Space Jump"
+                    "Super Missiles, Power Bombs",
+                    "Super Missiles, Bombs"
                 ],
                 "sections": [
                     {
                         "name": "Gunga Bunga",
+                        "access_rules": [
+                    "Spider Ball",
+                    "Space Jump"
+                ],
                         "item_count": 1
                     }
                 ],
@@ -1234,7 +1246,10 @@
             },
             {
                 "name": "Up Above",
-                "access_rules": [ ],
+                "access_rules": [
+                "Bombs",
+                "Power Bombs:1"
+                ],
                 "sections": [
                     {
                         "name": "Guardian's little reward :D",
@@ -1773,6 +1788,7 @@
                     "Power Bombs, Speed Booster", 
                     "Power Bombs, Spider Ball", 
                     "Screw Attack, Spider Ball",
+                    "Screw Attack, Hi Jump",
                     "Screw Attack, Space Jump"
                 ],
                 "sections": [
@@ -1802,6 +1818,7 @@
                         "access_rules": [
                             "Spider Ball",
                             "Bombs",
+                            "Screw Attack, Hi Jump",
                             "Speed Booster",  
                             "Space Jump"                  
                         ],
@@ -1845,10 +1862,10 @@
                     {
                         "name": "Also in the sand...",
                         "access_rules": [
-                            "Spider Ball",
+                            "Spider Ball, Power Bombs",
                             "Bombs",
-                            "Speed Booster",  
-                            "Space Jump"                  
+                            "Speed Booster, Power Bombs",
+                            "Space Jump, Power Bombs"
                         ],
                         "item_count": 1
                     }
@@ -2443,7 +2460,7 @@
       "name": "EMP",
       "access_rules":[
         "Speed Booster, Bombs",
-        "Speed Booster, Power Bombs"        
+        "Speed Booster, Power Bombs"
     ],  
     "children":[
         {
