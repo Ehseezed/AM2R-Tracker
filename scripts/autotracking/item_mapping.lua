@@ -27,5 +27,6 @@ ITEM_MAPPING = {
     [108678022] = {"Traps", "consumable"},
     [108678023] = {"Traps", "consumable"},
     [108678024] = {"Traps", "consumable"},
-    [108678026] = {"Traps", "consumable"}
+    [108678026] = {"Traps", "consumable"},
+    [108678027] = {"Traps", "consumable"}
 }
