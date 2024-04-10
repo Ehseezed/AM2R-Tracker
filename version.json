@@ -4,7 +4,9 @@
             "package_version": "1.2.2",
             "download_url": "https://github.com/Ehseezed/AM2R-Tracker/releases/download/1.2.2/AM2R.zip",
             "sha256": "A4289A7B640A1A6A8DAE34C58D576504599688861F6888D371166F3711D43582",
-            "changelog": ["add auto updater and re-work autotracking"]
+            "changelog": [
+                "PBs now function and auto updates?"
+            ]
         },
         {
             "package_version": "1.2.0",
@@ -14,6 +16,7 @@
         }
     ]
 }
+
 // powershell Get-FileHash -Algorithm SHA256 .\AM2R.zip | Format-List to get latest sha256 on windows
 // sha256sum path/to/pack.zip to get latest sha256 on linux
 
