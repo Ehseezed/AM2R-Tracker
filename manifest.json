@@ -4,10 +4,10 @@
 {
     "name": "AM2R Tracker",
     "game_name": "AM2R",
-    "package_version": "1.0.0",
+    "package_version": "1.2.2",
     "package_uid": "AM2R",
-    "platform": "PC", //enables SNES memory autotracking interface - remove/change if not needed
-    "author": "Cyb3R",
+    "platform": "PC",
+    "author": "Ehseezed",
     "variants": {
         "standard": {
             "display_name": "Map Tracker",
@@ -15,5 +15,6 @@
                 "ap" //enables AP autotracking interface - remove if not needed
             ]
         }
-    }
+    },
+    "versions_url": "https://raw.githubusercontent.com/Ehseezed/AM2R-Tracker/main/version.json"
 }
