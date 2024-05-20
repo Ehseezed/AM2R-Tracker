@@ -298,7 +298,7 @@
             {
                 "name": "Mimolette",
                 "access_rules": [
-                    "Speed Booster, Bombs",
+                    "Speed Booster",
                     "Super Missiles"
                 ],
                 "sections": [
@@ -318,7 +318,7 @@
             {
                 "name": "The Big Cheese",
                 "access_rules": [
-                    "Speed Booster, Bombs",
+                    "Speed Booster",
                     "Super Missiles"
                 ],
                 "sections": [
@@ -340,7 +340,8 @@
                 "access_rules": [
                     "Bombs, Speed Booster",
                     "Bombs, Super Missiles",
-                    "Power Bombs:2, Super Missiles"
+                    "Power Bombs, [Power Bombs:2], Super Missiles",
+                    "Power Bombs, [Power Bombs:2], Speed Booster"
                 ],
                 "sections": [
                     {
@@ -361,7 +362,8 @@
                 "access_rules": [
                     "Bombs, Speed Booster",
                     "Bombs, Super Missiles",
-                    "Power Bombs:2, Super Missiles"
+                    "Power Bombs, [Power Bombs:2], Super Missiles",
+                    "Power Bombs, [Power Bombs:2], Speed Booster"
                 ],
                 "sections": [
                     {
@@ -380,17 +382,18 @@
             {
                 "name": "BBHarbinger",
                 "access_rules": [
-                    "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster, Space Jump",
-                    "Power Bombs, Speed Booster, Spider Ball",
-                    "Bombs, Super Missiles",
-                    "Power Bombs, Super Missiles, Hi Jump",
-                    "Power Bombs, Super Missiles, Space Jump",
-                    "Power Bombs, Super Missiles, Spider Ball"
+                    "Bombs",
+                    "Power Bombs, [Power Bombs:2], Hi Jump",
+                    "Power Bombs, [Power Bombs:2], Space Jump",
+                    "Power Bombs, [Power Bombs:2], Spider Ball"
                 ],
                 "sections": [
                     {
                         "name": "Weh",
+                        "access_rules": [
+                        "Speed Booster",
+                        "Super Missiles"
+                    ],
                         "item_count": 1
                     }
                 ],
@@ -405,17 +408,18 @@
             {
                 "name": "The Abyssal Creature",
                 "access_rules": [
-                    "Bombs, Speed Booster",
-                    "Power Bombs, Speed Booster, Space Jump",
-                    "Power Bombs, Speed Booster, Spider Ball",
-                    "Bombs, Super Missiles",
-                    "Power Bombs, Super Missiles, Hi Jump",
-                    "Power Bombs, Super Missiles, Space Jump",
-                    "Power Bombs, Super Missiles, Spider Ball"
+                    "Bombs",
+                    "Power Bombs, [Power Bombs:2], Hi Jump",
+                    "Power Bombs, [Power Bombs:2], Space Jump",
+                    "Power Bombs, [Power Bombs:2], Spider Ball"
                 ],
                 "sections": [
                     {
                         "name": "Go check out Resplashed, plz :)",
+                        "access_rules": [
+                        "Speed Booster",
+                        "Super Missiles"
+                    ],
                         "item_count": 1
                     }
                 ],
@@ -477,7 +481,7 @@
             {
                 "name": "Guardian of Doom Treadmill",
                 "access_rules": [
-                    "Speed Booster, Power Bombs:2",
+                    "Speed Booster, Power Bombs,[Power Bombs:2]",
                     "Speed Booster, Bombs"
                 ],
                 "sections": [
@@ -497,7 +501,7 @@
             {
                 "name": "Rawsome1234 by the Lava Lake",
                 "access_rules": [
-                    "Speed Booster, Power Bombs:2",
+                    "Speed Booster, Power Bombs,[Power Bombs:2]",
                     "Speed Booster, Bombs"
                 ],
                 "sections": [
@@ -528,6 +532,8 @@
                     {
                         "name": "Unga Bunga",
                         "access_rules": [
+                    "Bombs, [Spider Ball]",
+                    "Speed Booster, [Space Jump]",
                     "Spider Ball",
                     "Space Jump"
                 ],
@@ -552,6 +558,8 @@
                     {
                         "name": "Gunga Bunga",
                         "access_rules": [
+                    "Bombs, [Spider Ball]",
+                    "Speed Booster, [Space Jump]",
                     "Spider Ball",
                     "Space Jump"
                 ],
@@ -628,7 +636,7 @@
             },
             {
                 "name": "Anakin",
-                "access_rules": ["Space Jump"],
+                "access_rules": ["Space Jump", "[Space Jump], Bombs, Charge Beam, Energy Tank", "[Space Jump], Bombs, Energy Tank:2"],
                 "sections": [
                     {
                         "name": "I don't like sand, it's coarse and rough and irritating and it gets everywhere",
@@ -647,7 +655,8 @@
                 "name": "Mr. Sandman",
                 "access_rules": [
                     "Hi Jump, Speed Booster",
-                    "Space Jump"
+                    "Space Jump",
+                    "Bombs, [Space Jump]"
                 ],
                 "sections": [
                     {
@@ -666,7 +675,10 @@
             {
                 "name": "Xander",
                 "access_rules": [
-                    "Space Jump"
+                    "Space Jump",
+                    "[Space Jump], Bombs, Energy Tank:3",
+                    "[Space Jump], Bombs, Charge Beam, Energy Tank:2",
+                    "[Space Jump], Hi Jump, Energy Tank:5"
                 ],
                 "sections": [
                     {
@@ -954,8 +966,8 @@
                     {
                         "name": "no IBJ required",
                         "access_rules": [
-                            "Hi Jump",
-                            "Space Jump"
+                            "[Hi Jump]",
+                            "[Space Jump]"
                         ],
                         "item_count": 1
                     }
@@ -1039,7 +1051,7 @@
                     },
                     {
                         "name": "Below Bombs",
-                        "access_rules": ["Bombs","Power Bombs:2"],
+                        "access_rules": ["Bombs","Power Bombs,[Power Bombs:2]"],
                         "item_count": 1
                     }
                 ],
@@ -1057,7 +1069,7 @@
                 "sections": [
                     {
                         "name": "\"I didn't know that's how the collision worked\"-Everyone",
-                        "access_rules": ["Bombs","Power Bombs:2"],
+                        "access_rules": ["Bombs","Power Bombs,[Power Bombs:2]"],
                         "item_count": 1
                     }
                 ],
@@ -1278,7 +1290,7 @@
                         "access_rules": [
                             "Power Bombs:2, Spider Ball",
                             "Power Bombs:2, Space Jump",
-                            "Power Bombs:2, Bombs"
+                            "Power Bombs,[Power Bombs:2], Bombs"
                         ],
                         "item_count": 1
                     }
@@ -1320,15 +1332,15 @@
             {
                 "name": "Cliff",
                 "access_rules": [                            
-                    "Spider Ball",
-                    "Space Jump",
-                    "Speed Booster",
-                    "Bombs"
+                    "[Spider Ball]",
+                    "[Space Jump]",
+                    "[Speed Booster]",
+                    "[Bombs]"
             ],
                 "sections": [
                     {
                         "name": "Actually, you can morph glide to this one",
-                        "access_rules": [],
+                        "access_rules": ["Morph Ball"],
                         "item_count": 1
                     }
                 ],
@@ -1431,7 +1443,7 @@
                         "name": "They put it behind a fake statue",
                         "access_rules": [
                             "Bombs", 
-                            "Power Bombs:2"
+                            "Power Bombs,[Power Bombs:2]"
                         ],
                         "item_count": 1
                     }
@@ -1493,14 +1505,14 @@
         "access_rules": [
             "Screw Attack", 
         "Bombs", 
-        "Power Bombs:2"
+        "Power Bombs,[Power Bombs:2]"
     ],
         "children": [
             {
                 "name": "Wave Beam",
                 "access_rules": [
                     "Bombs", 
-                    "Power Bombs:3"
+                    "Power Bombs:2,[Power Bombs:3]"
                 ],
                 "sections": [
                     {
@@ -1518,7 +1530,7 @@
             },
             {
                 "name": "Below Tower Pipe Upper",
-                "access_rules": ["Bombs", "Power Bombs:2"],
+                "access_rules": ["Bombs", "Power Bombs,[Power Bombs:2]"],
                 "sections": [
                     {
                         "name": "The Autoad is trying to reach it",
@@ -1541,7 +1553,7 @@
             },
             {
                 "name": "Below Tower Pipe Lower",
-                "access_rules": ["Bombs", "Power Bombs:3"],
+                "access_rules": ["Bombs", "Power Bombs,[Power Bombs:2]"],
                 "sections": [
                     {
                         "name": "I bet you can ballspark through the tunnel",
@@ -1593,16 +1605,16 @@
             },
             {
                 "name": "Behind Hi-Jump Boots",
-                "access_rules": ["Bombs", "Power Bombs:3"],
+                "access_rules": ["Bombs", "Power Bombs"],
                 "sections": [
                     {
                         "name": "Upper",
-                        "access_rules": ["Hi Jump", "Space Jump", "Spider Ball", "Bombs"],
+                        "access_rules": ["Hi Jump,Power Bombs:2", "Space Jump,Power Bombs:2", "Spider Ball,Power Bombs:2", "Bombs"],
                         "item_count": 1
                     },
                     {
                         "name": "Lower",
-                        "access_rules": [],
+                        "access_rules": ["[Power Bombs:2]"],
                         "item_count": 1
                     }
                 ],
@@ -2018,7 +2030,7 @@
                     {
                         "name": "You still need to do more Cardio",
                         "access_rules": [
-                            "Speed Booster, Power Bombs:2",
+                            "Speed Booster, Power Bombs,[Power Bombs:2]",
                             "Speed Booster, Bombs"                             
                         ],
                         "item_count": 1
@@ -2227,7 +2239,10 @@
                         "name": "Don't you love missing the hole every single time?",
                         "access_rules": [
                             "Space Jump",
-                            "Spider Ball"
+                            "Spider Ball",
+                            "Bombs, [Space Jump]",
+                            "Bombs, [Spider Ball]",
+                            "Speed Booster, [Space Jump]"
                         ],
                         "item_count": 1
                     }
@@ -2249,7 +2264,7 @@
                 "sections": [
                     {
                         "name": "Needing Spider Ball to escape sucks",
-                        "access_rules": ["Spider Ball"],
+                        "access_rules": ["[Spider Ball]"],
                         "item_count": 1
                     }
                 ],
@@ -2270,7 +2285,7 @@
                 "sections": [
                     {
                         "name": "It really does suck to need Spider Ball right?",
-                        "access_rules": ["Spider Ball"],
+                        "access_rules": ["[Spider Ball]"],
                         "item_count": 1
                     }
                 ],
@@ -2305,7 +2320,7 @@
         "name": "Tester",
         "access_rules":[
             "Bombs",
-            "Power Bombs:2"
+            "Power Bombs,[Power Bombs:2]"
         ],
         "children":[
             {
@@ -2330,7 +2345,7 @@
                 "sections": [
                     {
                         "name": "More weapons? Hell yeah",
-                        "access_rules": ["Power Bombs:2"],
+                        "access_rules": ["Power Bombs,[Power Bombs:2]"],
                         "item_count": 1
                     }
                 ],
@@ -2348,15 +2363,16 @@
     ,{ 
         "name": "Geothermal",
         "access_rules":[
-            "Power Bombs:3, Speed Booster"
+            "Power Bombs, Speed Booster"
         ],
         "children":[
             {
                 "name": "Geothermal Reactor",
+                "access_rules": ["Power Bombs, Speed Booster"],
                 "sections": [
                     {
                         "name": "The Chozo aren't that smart if they put a power bomb in a reactor",
-                        "access_rules": [],
+                        "access_rules": ["Bombs","Space Jump","Spider Ball","Hi Jump"],
                         "item_count": 1
                     }
                 ],
@@ -2370,12 +2386,12 @@
             },
             {
                 "name": "Post Reactor Chozo",
+                "access_rules": ["Power Bombs:3, Speed Booster"],
                 "sections": [
                     {
                         "name": "You wish it was an Energy Tank right about now",
                         "access_rules": [
-                            "Power Bombs:3",
-                            "Bombs"
+                            "Bombs","Space Jump","Spider Ball","Hi Jump"
                     ],
                         "item_count": 1
                     }
@@ -2390,10 +2406,11 @@
             },
             {
                 "name": "Post Reactor Shinespark",
+                "access_rules": ["Power Bombs:3, [Speed Booster], Super Missiles"],
                 "sections": [
                     {
                         "name": "You don't even need Speed Booster for this one :)",
-                        "access_rules": ["Super Missiles"],
+                        "access_rules": ["Bombs","Space Jump","Spider Ball","Hi Jump"],
                         "item_count": 1
                     }
                 ],
@@ -2422,7 +2439,8 @@
                     {
                         "name": "Alignment for this one is rough when there's 3 fishes behind you",
                         "access_rules": [
-                            "Gravity Suit, Speed Booster"
+                            "Gravity Suit, Speed Booster",
+                            "[Gravity Suit], Speed Booster, Space Jump"
                     ],
                         "item_count": 1
                     }
@@ -2489,7 +2507,10 @@
         "access_rules":[
             "Gravity Suit, Speed Booster, Super Missiles",
             "Gravity Suit, Speed Booster, Power Bombs",
-            "Screw Attack, Ice Beam, Bombs",
+            "Gravity Suit, Speed Booster, Screw Attack",
+            "Screw Attack, Ice Beam",
+            "Screw Attack, Bombs, Speed Booster",
+            "Screw Attack, Power Bombs:2, Speed Booster",
             "Screw Attack, Super Missiles",
             "Ice Beam, Super Missiles", 
             "Ice Beam, Power Bombs"      
@@ -2499,10 +2520,9 @@
               "name": "Spider Ball Crumble Spiky \"Maze\"",
               "sections": [
                   {
-                      "name": "It sucks as a maze, but hey, you're supposed to use Spider Ball, so that's cool",
+                      "name": "NOTE: The current version of the APworld DOES NOT account for the bomb blocks needed to get this check!",
                       "access_rules": [
-                          "Gravity Suit, Spider Ball, Bombs",
-                          "Gravity Suit, Spider Ball, Power Bombs"
+                          "[Gravity Suit], [Spider Ball]"
                   ],
                       "item_count": 1
                   }
@@ -2518,16 +2538,12 @@
           
           {
             "name": "Before Spiky Trial",
+            "access_rules": [
+            ],
             "sections": [
                 {
-                    "name": "Either it's awful or it's great, not in between",
-                    "access_rules": [    
-                        "Gravity Suit, Speed Booster, Super Missiles",
-                        "Gravity Suit, Speed Booster, Power Bombs",
-                        "Screw Attack, Ice Beam, Bombs",
-                        "Screw Attack, Super Missiles",
-                        "Ice Beam, Super Missiles", 
-                        "Ice Beam, Power Bombs" 
+                    "name": "Either it's awful or it's great, no in between",
+                    "access_rules": [
                 ],
                     "item_count": 1
                 }
