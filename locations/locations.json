@@ -709,7 +709,8 @@
                 "sections": [
                     {
                         "name": "Guardian of the Alpha Squadron",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     }
                 ],
                 "map_locations": [
@@ -734,23 +735,28 @@
                 "sections": [
                     {
                         "name": "Timmy",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     },
                     {
                         "name": "Tommy",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     },
                     {
                         "name": "Terry",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     },
                     {
                         "name": "Telly",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     },
                     {
                         "name": "Martin",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     }
                 ],
                 "map_locations": [
@@ -775,7 +781,8 @@
                 "sections": [
                     {
                         "name": "Worse Luigi",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     }
                 ],
                 "map_locations": [
@@ -800,7 +807,8 @@
                 "sections": [
                     {
                         "name": "Cooler Mario",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": ["Screw Attack", "Ice Beam"]
                     }
                 ],
                 "map_locations": [
@@ -1283,14 +1291,14 @@
             },
             {
                 "name": "Behind The Door",
-                "access_rules": [],
+                "access_rules": ["Power Bombs"],
                "sections": [
                     {
                         "name": "Guardian's big reward >:D",
                         "access_rules": [
                             "Power Bombs:2, Spider Ball",
                             "Power Bombs:2, Space Jump",
-                            "Power Bombs,[Power Bombs:2], Bombs"
+                            "Bombs"
                         ],
                         "item_count": 1
                     }
@@ -2435,6 +2443,7 @@
         "children":[
             {
                 "name": "Main Room Shinespark",
+                "access_rules": ["Screw Attack", "Ice Beam"],
                 "sections": [
                     {
                         "name": "Alignment for this one is rough when there's 3 fishes behind you",
@@ -2645,6 +2654,7 @@
             },
             {
                 "name": "Spectator Jail",
+                "access_rules": ["Screw Attack", "Ice Beam"],
                 "sections": [
                     {
                         "name": "So many spectators imprisioned...",
