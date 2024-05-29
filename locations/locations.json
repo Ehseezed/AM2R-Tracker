@@ -2267,7 +2267,7 @@
                 "name": "Dark Maze",
                 "access_rules":[
                     "Bombs",
-                    "Power Bombs:4"
+                    "Power Bombs:2, [Power Bombs:4]"
                 ],
                 "sections": [
                     {
