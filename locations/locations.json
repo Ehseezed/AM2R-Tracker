@@ -1090,7 +1090,7 @@
                 ]
             },
             {
-                "name": "Charge Beam", // Lmao we forgot about this check dude
+                "name": "Charge Beam",
                 "access_rules": [],
                 "sections": [
                     {
