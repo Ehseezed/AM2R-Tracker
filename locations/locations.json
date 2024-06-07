@@ -23,10 +23,10 @@
             {
                 "name": "Friendly Spider",
                 "access_rules": [
-                    "Spider Ball",
-                    "Bombs",
-                    "Space Jump",
-                    "Speed Booster"
+                    "[Spider Ball]",
+                    "[Bombs]",
+                    "[Space Jump]",
+                    "[Speed Booster]"
                 ],
                 "sections": [
                     {
@@ -156,9 +156,9 @@
             {
                 "name": "EnderMahan",
                 "access_rules": [
-                    "Bombs",
-                    "Hi Jump",
-                    "Space Jump"
+                    "[Bombs]",
+                    "[Hi Jump]",
+                    "[Space Jump]"
                 ],
                 "sections": [
                     {
@@ -177,9 +177,9 @@
             {
                 "name": "Carnage Awful",
                 "access_rules": [
-                    "Bombs",
-                    "Hi Jump",
-                    "Space Jump"
+                    "[Bombs]",
+                    "[Hi Jump]",
+                    "[Space Jump]"
                 ],
                 "sections": [
                     {
@@ -198,9 +198,9 @@
             {
                 "name": "Venom Awesome",
                 "access_rules": [
-                    "Bombs",
-                    "Hi Jump",
-                    "Space Jump"
+                    "[Bombs]",
+                    "[Hi Jump]",
+                    "[Space Jump]"
                 ],
                 "sections": [
                     {
@@ -219,9 +219,9 @@
             {
                 "name": "Something More",
                 "access_rules": [
-                    "Bombs",
-                    "Hi Jump",
-                    "Space Jump"
+                    "[Bombs]",
+                    "[Hi Jump]",
+                    "[Space Jump]"
                 ],
                 "sections": [
                     {
@@ -434,10 +434,12 @@
             {
                 "name": "Sisyphus",
                 "access_rules": [
-                    "Spider Ball, Power Bombs",
-                    "Space Jump, Power Bombs",
+                    "[Spider Ball], Power Bombs",
+                    "[Space Jump], Power Bombs",
                     "Speed Booster",
-                    "Bombs"
+                    "Bombs",
+                    "Screw Attack, [Spider Ball]",
+                    "Screw Attack, [Space Jump]"
                 ],
                 "sections": [
                     {
@@ -456,13 +458,13 @@
             {
                 "name": "And then theres this Asshole",
                 "access_rules": [
-                    "Spider Ball, Power Bombs",
-                    "Space Jump, Power Bombs",
+                    "[Spider Ball], Power Bombs",
+                    "[Space Jump], Power Bombs",
                     "Speed Booster",
                     "Bombs",
-                    "Screw Attack, Spider Ball",
-                    "Screw Attack, Hi Jump",
-                    "Screw Attack, Space Jump"
+                    "Screw Attack, [Spider Ball]",
+                    "Screw Attack, [Hi Jump]",
+                    "Screw Attack, [Space Jump]"
                 ],
                 "sections": [
                     {
@@ -508,8 +510,8 @@
                     {
                         "name": "That's right, he's also the problem",
                         "access_rules": [
-                    "Gravity Suit",
-                    "Space Jump"
+                    "[Gravity Suit]",
+                    "[Space Jump]"
                 ],
                         "item_count": 1
                     }
@@ -578,11 +580,14 @@
                 "name": "Patricia",
                 "access_rules": [
                     "Space Jump",
-                "Bombs"
+                    "Bombs",
+                    "[Space Jump], Energy Tank:2",
+                    "[Space Jump], Hi Jump"
             ],
                 "sections": [
                     {
                         "name": "Its my friend Ivy's birthday today!",
+                        "access_rules": [],
                         "item_count": 1
                     }
                 ],
@@ -597,8 +602,9 @@
             {
                 "name": "Variable",
                 "access_rules": [
-                    "Bombs",
-                    "Space Jump"
+                    "[Bombs]",
+                    "[Space Jump]",
+                    "[Spider Ball]"
                 ],
                 "sections": [
                     {
@@ -636,7 +642,11 @@
             },
             {
                 "name": "Anakin",
-                "access_rules": ["Space Jump", "[Space Jump], Bombs, Charge Beam, Energy Tank", "[Space Jump], Bombs, Energy Tank:2"],
+                "access_rules": [
+                    "Space Jump",
+                    "[Space Jump], Energy Tank:5",
+                    "[Space Jump], Hi Jump, Energy Tank:2"
+                ],
                 "sections": [
                     {
                         "name": "I don't like sand, it's coarse and rough and irritating and it gets everywhere",
@@ -654,9 +664,12 @@
             {
                 "name": "Mr. Sandman",
                 "access_rules": [
-                    "Hi Jump, Speed Booster",
+                    "[Hi Jump], Speed Booster",
                     "Space Jump",
-                    "Bombs, [Space Jump]"
+                    "Bombs, [Space Jump]",
+                    "[Hi Jump], [Speed Booster], Energy Tank:6",
+                    "[Hi Jump], [Speed Booster], Spider Ball, Energy Tank:5",
+                    "Hi Jump, [Speed Booster], Energy Tank: 3"
                 ],
                 "sections": [
                     {
@@ -677,8 +690,9 @@
                 "access_rules": [
                     "Space Jump",
                     "[Space Jump], Bombs, Energy Tank:3",
-                    "[Space Jump], Bombs, Charge Beam, Energy Tank:2",
-                    "[Space Jump], Hi Jump, Energy Tank:5"
+                    "[Space Jump], Bombs, Charge Beam, Energy Tank",
+                    "[Space Jump], Hi Jump, Energy Tank:3",
+                    "[Space Jump], Energy Tank:9"
                 ],
                 "sections": [
                     {
@@ -931,7 +945,7 @@
                         "name": "Does anyone even use Spider Ball for this?",
                         "access_rules": [
                             "Bombs",
-                            "Space Jump, Power Bombs:3"
+                            "[Space Jump], [Power Bombs:2], Power Bombs"
                         ],
                         "item_count": 1
                     }
@@ -951,7 +965,7 @@
                         "name": "You either missed it on your first playthrough or were bombing every block",
                         "access_rules": [
                             "Bombs",
-                            "Power Bombs:3"
+                            "[Power Bombs:3], Power Bombs:2"
                         ],
                         "item_count": 1
                     }
@@ -1638,7 +1652,7 @@
     },
     {
         "name": "Hydro Nest",
-        "access_rules": ["Hi Jump", "Space Jump", "Bombs"],
+        "access_rules": ["[Hi Jump]", "[Space Jump]", "[Bombs]"],
         "children": [
             {
                 "name": "Below the Walkway",
@@ -1804,12 +1818,10 @@
                 "access_rules": [
                     "Speed Booster", 
                     "Bombs", 
-                    "Power Bombs, Space Jump", 
-                    "Power Bombs, Speed Booster", 
-                    "Power Bombs, Spider Ball", 
-                    "Screw Attack, Spider Ball",
-                    "Screw Attack, Hi Jump",
-                    "Screw Attack, Space Jump"
+                    "Power Bombs, [Space Jump]",
+                    "Power Bombs, [Spider Ball]",
+                    "Screw Attack, [Spider Ball]",
+                    "Screw Attack, [Space Jump]"
                 ],
                 "sections": [
                     {
@@ -1836,11 +1848,12 @@
                     {
                         "name": "You can preview this item!",
                         "access_rules": [
-                            "Spider Ball",
+                            "Speed Booster",
                             "Bombs",
-                            "Screw Attack, Hi Jump",
-                            "Speed Booster",  
-                            "Space Jump"                  
+                            "Power Bombs, [Space Jump]",
+                            "Power Bombs, [Spider Ball]",
+                            "Screw Attack, [Spider Ball]",
+                            "Screw Attack, [Space Jump]"
                         ],
                         "item_count": 1
                     }
@@ -1882,10 +1895,12 @@
                     {
                         "name": "Also in the sand...",
                         "access_rules": [
-                            "Spider Ball, Power Bombs",
+                            "[Spider Ball], Power Bombs",
                             "Bombs",
-                            "Speed Booster, Power Bombs",
-                            "Space Jump, Power Bombs"
+                            "Speed Booster",
+                            "[Space Jump], Power Bombs",
+                            "Screw Attack, [Spider Ball]",
+                            "Screw Attack, [Space Jump]"
                         ],
                         "item_count": 1
                     }
@@ -1945,17 +1960,16 @@
                 "access_rules": [
                     "Speed Booster",  
                     "Bombs",
-                    "Power Bombs",
-                    "Screw Attack"                  
+                    "Power Bombs"
                 ],
                 "sections": [
                     {
                         "name": "Speedrunner's Significant Other",
                         "access_rules": [
-                            "Spider Ball",
-                            "Bombs",
-                            "Speed Booster",  
-                            "Space Jump"                  
+                            "[Spider Ball]",
+                            "[Bombs]",
+                            "[Speed Booster]",
+                            "[Space Jump]"
                         ],
                         "item_count": 1
                     }
@@ -1974,18 +1988,18 @@
                     "Speed Booster",
                     "Bombs",
                     "Power Bombs",
-                    "Screw Attack, Spider Ball",
-                    "Screw Attack, Space Jump"   
+                    "Screw Attack, [Spider Ball]",
+                    "Screw Attack, [Space Jump]"
                 ],
                 "sections": [
                     
                     {
                         "name": "It's alive!",
                         "access_rules": [
-                            "Hi Jump",
-                            "Bombs",
-                            "Spider Ball",
-                            "Space Jump"  
+                            "[Hi Jump]",
+                            "[Bombs]",
+                            "[Spider Ball]",
+                            "[Space Jump]"
                         ],
                         "item_count": 1
                     }
@@ -2267,7 +2281,7 @@
                 "name": "Dark Maze",
                 "access_rules":[
                     "Bombs",
-                    "Power Bombs:2, [Power Bombs:4]"
+                    "Power Bombs:2, Wave Beam, Charge Beam, [Power Bombs:4]"
                 ],
                 "sections": [
                     {
