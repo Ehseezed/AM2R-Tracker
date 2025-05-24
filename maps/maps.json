@@ -4,6 +4,6 @@
         "name": "map1",
         "location_size": 20,
         "location_border_thickness": 4,
-        "img": "images/maps/map.png"
+        "img": "images/maps/world_tree.png"
     }
 ]

@@ -1,11 +1,13 @@
 // seperate lines for "or" same line for "and"
 [
     {
-        "name": "Metroids",
+        "name": "Eolis",
         "children": [
             {
                 "name": "The Forgotten Alpha",
-                "access_rules": [],
+                "access_rules": [
+                    "sword1, deluge, ringelf"
+                ],
                 "sections": [
                     {
                         "name": "Why'd you forget me? :(",
@@ -1256,7 +1258,7 @@
                         "access_rules": [
                             "Spider Ball",
                             "Space Jump",
-                            "Bombs" 
+                            "Bombs"
                         ],
                         "item_count": 1
                     }
@@ -1300,7 +1302,7 @@
                         "access_rules": [
                             "Speed Booster, Spring Ball, Super Missiles, Power Bombs, Screw Attack",
                             "Speed Booster, Spring Ball, Super Missiles, Bombs, Screw Attack"
-                    ],    
+                    ],
                         "item_count": 1
                     }
                 ],
@@ -1319,7 +1321,7 @@
         "children": [
             {
                 "name": "Cliff",
-                "access_rules": [                            
+                "access_rules": [
                     "Spider Ball",
                     "Space Jump",
                     "Speed Booster",
@@ -1365,7 +1367,7 @@
                     {
                         "name": "It's ok to hide here, the Turbine Terror is scary",
                         "access_rules": [
-                            "Bombs", 
+                            "Bombs",
                             "Power Bombs"
                         ],
                         "item_count": 1
@@ -1386,9 +1388,9 @@
                     {
                         "name": "You can see this one before you get it",
                         "access_rules": [
-                            "Hi Jump", 
-                            "Space Jump", 
-                            "Spider Ball", 
+                            "Hi Jump",
+                            "Space Jump",
+                            "Spider Ball",
                             "Bombs"
                         ],
                         "item_count": 1
@@ -1409,7 +1411,7 @@
                     {
                         "name": "WHEEEEEEEE!",
                         "access_rules": [
-                            "Bombs", 
+                            "Bombs",
                             "Power Bombs:3"
                         ],
                         "item_count": 1
@@ -1430,7 +1432,7 @@
                     {
                         "name": "They put it behind a fake statue",
                         "access_rules": [
-                            "Bombs", 
+                            "Bombs",
                             "Power Bombs:2"
                         ],
                         "item_count": 1
@@ -1451,7 +1453,7 @@
                     {
                         "name": "They see me rollin', they hatin'",
                         "access_rules": [
-                            "Bombs", 
+                            "Bombs",
                             "Power Bombs:4"
                         ],
                         "item_count": 1
@@ -1468,7 +1470,7 @@
             {
                 "name": "EMP Room",
                 "access_rules": [
-                    "Ice Beam", 
+                    "Ice Beam",
                     "Screw Attack"
                 ],
                 "sections": [
@@ -1491,15 +1493,15 @@
     {
         "name": "Inner Hydro",
         "access_rules": [
-            "Screw Attack", 
-        "Bombs", 
+            "Screw Attack",
+        "Bombs",
         "Power Bombs:2"
     ],
         "children": [
             {
                 "name": "Wave Beam",
                 "access_rules": [
-                    "Bombs", 
+                    "Bombs",
                     "Power Bombs:3"
                 ],
                 "sections": [
@@ -1523,9 +1525,9 @@
                     {
                         "name": "The Autoad is trying to reach it",
                         "access_rules": [
-                         "Hi Jump", 
-                         "Space Jump", 
-                         "Spider Ball", 
+                         "Hi Jump",
+                         "Space Jump",
+                         "Spider Ball",
                          "Bombs"
                         ],
                         "item_count": 1
@@ -1535,7 +1537,7 @@
                     {
                         "map": "map1",
                         "x": 851,
-                        "y": 563    
+                        "y": 563
                     }
                 ]
             },
@@ -1696,7 +1698,7 @@
             {
                 "name": "EMP Room",
                 "access_rules": [
-                    "Ice Beam", 
+                    "Ice Beam",
                     "Screw Attack"
                 ],
                 "sections": [
@@ -1705,7 +1707,7 @@
                         "access_rules": [
                             "Super Missiles, Power Bombs",
                             "Super Missiles, Power Bombs"
-                        ],  
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -1731,7 +1733,7 @@
                             "Speed Booster, Super Missiles, Spider Ball",
                             "Speed Booster, Super Missiles, Space Jump",
                             "Speed Booster, Super Missiles, Hi Jump",
-                            "Speed Booster, Super Missiles, Bombs"                            
+                            "Speed Booster, Super Missiles, Bombs"
                         ],
                         "item_count": 1
                     }
@@ -1755,7 +1757,7 @@
                 "Screw Attack"
             ],
                 "children": [
-                    
+
             {
                 "name": "In the Sand",
                 "sections": [
@@ -1782,11 +1784,11 @@
             {
                 "name": "Complex Side Tunnel",
                 "access_rules": [
-                    "Speed Booster", 
-                    "Bombs", 
-                    "Power Bombs, Space Jump", 
-                    "Power Bombs, Speed Booster", 
-                    "Power Bombs, Spider Ball", 
+                    "Speed Booster",
+                    "Bombs",
+                    "Power Bombs, Space Jump",
+                    "Power Bombs, Speed Booster",
+                    "Power Bombs, Spider Ball",
                     "Screw Attack, Spider Ball",
                     "Screw Attack, Hi Jump",
                     "Screw Attack, Space Jump"
@@ -1819,8 +1821,8 @@
                             "Spider Ball",
                             "Bombs",
                             "Screw Attack, Hi Jump",
-                            "Speed Booster",  
-                            "Space Jump"                  
+                            "Speed Booster",
+                            "Space Jump"
                         ],
                         "item_count": 1
                     }
@@ -1832,17 +1834,17 @@
                         "y": 515
                     }
                 ]
-            },   
+            },
             {
                 "name": "Behind the Green Door",
                 "access_rules":["Super Missiles, Speed Booster, Power Bombs"],
                 "sections": [
                     {
                         "name": "The only green door",
-                        "access_rules": [   
+                        "access_rules": [
                             "Spider Ball",
                             "Bombs",
-                            "Space Jump"                       
+                            "Space Jump"
                         ],
                         "item_count": 1
                     }
@@ -1858,7 +1860,7 @@
             {
                 "name": "Save Room",
                     "sections": [
-                        
+
                     {
                         "name": "Also in the sand...",
                         "access_rules": [
@@ -1886,9 +1888,9 @@
                         "access_rules": [
                             "Spider Ball",
                             "Bombs",
-                            "Speed Booster",  
+                            "Speed Booster",
                             "Space Jump",
-                            "Screw Attack"                            
+                            "Screw Attack"
                         ],
                         "item_count": 1
                     }
@@ -1907,7 +1909,7 @@
                     {
                         "name": "Shinespark Allowed",
                         "access_rules": [
-                            "Speed Booster"                            
+                            "Speed Booster"
                         ],
                         "item_count": 1
                     }
@@ -1923,10 +1925,10 @@
             {
                 "name": "Speed Booster",
                 "access_rules": [
-                    "Speed Booster",  
+                    "Speed Booster",
                     "Bombs",
                     "Power Bombs",
-                    "Screw Attack"                  
+                    "Screw Attack"
                 ],
                 "sections": [
                     {
@@ -1934,8 +1936,8 @@
                         "access_rules": [
                             "Spider Ball",
                             "Bombs",
-                            "Speed Booster",  
-                            "Space Jump"                  
+                            "Speed Booster",
+                            "Space Jump"
                         ],
                         "item_count": 1
                     }
@@ -1955,17 +1957,17 @@
                     "Bombs",
                     "Power Bombs",
                     "Screw Attack, Spider Ball",
-                    "Screw Attack, Space Jump"   
+                    "Screw Attack, Space Jump"
                 ],
                 "sections": [
-                    
+
                     {
                         "name": "It's alive!",
                         "access_rules": [
                             "Hi Jump",
                             "Bombs",
                             "Spider Ball",
-                            "Space Jump"  
+                            "Space Jump"
                         ],
                         "item_count": 1
                     }
@@ -1992,14 +1994,14 @@
         "Speed Booster"
     ],
         "children": [
-            
+
             {
                 "name": "Conveyor Belt",
                 "sections": [
                     {
                         "name": "Did you know that the rock there is for alignment?",
                         "access_rules": [
-                            "Speed Booster"                             
+                            "Speed Booster"
                         ],
                         "item_count": 1
                     }
@@ -2019,7 +2021,7 @@
                         "name": "You still need to do more Cardio",
                         "access_rules": [
                             "Speed Booster, Power Bombs:2",
-                            "Speed Booster, Bombs"                             
+                            "Speed Booster, Bombs"
                         ],
                         "item_count": 1
                     }
@@ -2036,12 +2038,12 @@
                 "name": "Complex Hub Shinespark",
                 "access_rules": [],
                 "sections": [
-                    
+
                     {
                         "name": "Mockball it and go through the tunnel :)",
                         "access_rules": [
                             "Speed Booster, Power Bombs",
-                            "Speed Booster, Bombs"     
+                            "Speed Booster, Bombs"
                         ],
                         "item_count": 1
                     }
@@ -2058,12 +2060,12 @@
                 "name": "Complex Hub in the Floor",
                 "access_rules": ["Super Missiles"],
                 "sections": [
-                    
+
                     {
                         "name": "New players always miss this one",
                         "access_rules": [
                             "Speed Booster, Power Bombs",
-                            "Speed Booster, Bombs"     
+                            "Speed Booster, Bombs"
                         ],
                         "item_count": 1
                     }
@@ -2084,7 +2086,7 @@
                         "name": "Either you have enough supers to not do the minigame, or you do the minigame and have a singular super to leave",
                         "access_rules": [
                             "Speed Booster, Power Bombs",
-                            "Speed Booster, Bombs"                             
+                            "Speed Booster, Bombs"
                         ],
                         "item_count": 1
                     }
@@ -2124,7 +2126,7 @@
                         "y": 563
                     }
                 ]
-            }, 
+            },
             {
                 "name": "Hornoad Room",
                 "sections": [
@@ -2141,7 +2143,7 @@
                         "y": 107
                     }
                 ]
-            }, 
+            },
             {
                 "name": "Outside the Front of the Ship",
                 "sections": [
@@ -2158,7 +2160,7 @@
                         "y": 83
                     }
                 ]
-            }, 
+            },
             {
                 "name": "Genesis: Boss",
                 "sections": [
@@ -2175,8 +2177,8 @@
                         "y": 107
                     }
                 ]
-            }   
-        ]   
+            }
+        ]
     }
     ,{
         "name": "The Tower",
@@ -2298,10 +2300,10 @@
                         "y": 995
                     }
                 ]
-            }   
+            }
         ]
-    } 
-    ,{ 
+    }
+    ,{
         "name": "Tester",
         "access_rules":[
             "Bombs",
@@ -2323,7 +2325,7 @@
                         "x": 779,
                         "y": 779
                     }
-                ]  
+                ]
             },
             {
                 "name": "After Tester",
@@ -2345,7 +2347,7 @@
         ]
 
     }
-    ,{ 
+    ,{
         "name": "Geothermal",
         "access_rules":[
             "Power Bombs:3, Speed Booster"
@@ -2366,7 +2368,7 @@
                         "x": 875,
                         "y": 1379
                     }
-                ]  
+                ]
             },
             {
                 "name": "Post Reactor Chozo",
@@ -2386,7 +2388,7 @@
                         "x": 779,
                         "y": 1091
                     }
-                ]  
+                ]
             },
             {
                 "name": "Post Reactor Shinespark",
@@ -2407,13 +2409,13 @@
             }
         ]
 
-    } 
+    }
     ,{
         "name": "Underwater Distribution",
         "access_rules":[
          "Super Missiles",
          "Power Bombs",
-         "Screw Attack"  
+         "Screw Attack"
         ],
         "children":[
             {
@@ -2433,7 +2435,7 @@
                         "x": 1259,
                         "y": 1019
                     }
-                ]  
+                ]
             },
             {
                 "name": "Underwater Speed Hallway",
@@ -2454,14 +2456,14 @@
                     }
                 ]
             }
-        ]   
-    } 
+        ]
+    }
     ,{
       "name": "EMP",
       "access_rules":[
         "Speed Booster, Bombs",
         "Speed Booster, Power Bombs"
-    ],  
+    ],
     "children":[
         {
             "name": "After EMP Activation",
@@ -2491,9 +2493,9 @@
             "Gravity Suit, Speed Booster, Power Bombs",
             "Screw Attack, Ice Beam, Bombs",
             "Screw Attack, Super Missiles",
-            "Ice Beam, Super Missiles", 
-            "Ice Beam, Power Bombs"      
-      ],  
+            "Ice Beam, Super Missiles",
+            "Ice Beam, Power Bombs"
+      ],
       "children":[
           {
               "name": "Spider Ball Crumble Spiky \"Maze\"",
@@ -2515,19 +2517,19 @@
                   }
               ]
           },
-          
+
           {
             "name": "Before Spiky Trial",
             "sections": [
                 {
                     "name": "Either it's awful or it's great, not in between",
-                    "access_rules": [    
+                    "access_rules": [
                         "Gravity Suit, Speed Booster, Super Missiles",
                         "Gravity Suit, Speed Booster, Power Bombs",
                         "Screw Attack, Ice Beam, Bombs",
                         "Screw Attack, Super Missiles",
-                        "Ice Beam, Super Missiles", 
-                        "Ice Beam, Power Bombs" 
+                        "Ice Beam, Super Missiles",
+                        "Ice Beam, Power Bombs"
                 ],
                     "item_count": 1
                 }
@@ -2575,17 +2577,17 @@
             ]
         }
       ]
-      } 
+      }
       ,{
         "name": "Distribution Center",
         "access_rules":[
             "Screw Attack",
             "Ice Beam, Super Missiles",
             "Gravity Suit, Speed Booster",
-            "Ice Beam, Super Missiles", 
+            "Ice Beam, Super Missiles",
             "Ice Beam, Power Bombs",
             "Speed Booster, Bombs",
-            "Speed Booster, Power Bombs"   
+            "Speed Booster, Power Bombs"
         ],
         "children":[
             {
@@ -2643,7 +2645,7 @@
                         "y": 1043
                     }
                 ]
-            }  
+            }
         ]
       }
       ,{
@@ -2691,13 +2693,13 @@
                         "y": 947
                     }
                 ]
-            }     
+            }
         ]
       }
       ,{
         "name": "Serris",
         "access_rules":[
-            "Gravity Suit, Ice Beam"   
+            "Gravity Suit, Ice Beam"
         ],
         "children":[
             {
@@ -2719,7 +2721,7 @@
                         "y": 1091
                     }
                 ]
-            }     
+            }
         ]
       }
       ,{
@@ -2779,7 +2781,7 @@
                         "y": 1115
                     }
                 ]
-            }     
+            }
         ]
-      }              
+      }
 ]

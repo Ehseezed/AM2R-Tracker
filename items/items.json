@@ -1,184 +1,294 @@
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
 [
     {
-        "name": "Bombs",
-        "type": "toggle",
-        "img": "images/items/Bombs.png",
-        "codes": "Bombs"
+        "name": "Progressive Sword",
+        "type": "progressive",
+        "loop": "false",
+        "stages": [
+            {
+                "name": "Sword",
+                "img": "images/items/Sword.png",
+                "codes": "sword"
+            },
+            {
+                "name": "Sword 2",
+                "img": "images/items/Sword2.png",
+                "codes": "sword2"
+            },
+            {
+                "name": "Sword 3",
+                "img": "images/items/Sword3.png",
+                "codes": "sword3"
+            },
+            {
+                "name": "Sword 4",
+                "img": "images/items/Sword4.png",
+                "codes": "sword4"
+            }
+        ]
     },
     {
-        "name": "Charge Beam",
-        "type": "toggle",
-        "img": "images/items/Charge.png",
-        "codes": "Charge Beam"
+        "name": "Progressive Armor",
+        "type": "progressive",
+        "loop": "false",
+        "stages": [
+            {
+                "name": "Armor",
+                "img": "images/items/Sword.png",
+                "codes": "armor"
+            },
+            {
+                "name": "Armor 2",
+                "img": "images/items/Sword2.png",
+                "codes": "armor2"
+            },
+            {
+                "name": "Armor 3",
+                "img": "images/items/Sword3.png",
+                "codes": "armor3"
+            }
+        ]
     },
     {
-        "name": "Energy Tank",
+        "name": "Progressive Shield",
+        "type": "progressive",
+        "loop": "false",
+        "stages": [
+            {
+                "name": "Shield",
+                "img": "images/items/Shield.png",
+                "codes": "shield"
+            },
+            {
+                "name": "Shield 2",
+                "img": "images/items/Shield2.png",
+                "codes": "shield2"
+            },
+            {
+                "name": "Shield 3",
+                "img": "images/items/Shield3.png",
+                "codes": "shield3"
+            },
+            {
+                "name": "Shield 4",
+                "img": "images/items/Shield4.png",
+                "codes": "shield4"
+            }
+        ]
+    },
+    {
+        "name": "Spring Elixir",
+        "type": "toggle",
+        "img": "images/items/spring_elixir.png",
+        "codes": "springelixir"
+    },
+    {
+        "name": "Mattock",
+        "type": "toggle",
+        "img": "images/items/mattock.png",
+        "codes": "mattock"
+    },
+    {
+        "name": "Unlock Wingboots",
+        "type": "toggle",
+        "img": "images/items/unlock_wingboots.png",
+        "codes": "unlockwingboots"
+    },
+    {
+        "name": "Key Jack",
+        "type": "toggle",
+        "img": "images/items/key_jack.png",
+        "codes": "keyjack"
+    },
+    {
+        "name": "Key Queen",
+        "type": "toggle",
+        "img": "images/items/key_queen.png",
+        "codes": "keyqueen"
+    },
+    {
+        "name": "Key King",
+        "type": "toggle",
+        "img": "images/items/key_king.png",
+        "codes": "keyking"
+    },
+    {
+        "name": "Key Joker",
+        "type": "toggle",
+        "img": "images/items/key_joker.png",
+        "codes": "keyjoker"
+    },
+    {
+        "name": "Key Ace",
+        "type": "toggle",
+        "img": "images/items/key_ace.png",
+        "codes": "keyace"
+    },
+    {
+        "name": "Ring of Ruby",
+        "type": "toggle",
+        "img": "images/items/ring_of_ruby.png",
+        "codes": "ringruby"
+    },
+    {
+        "name": "Ring of Dworf",
+        "type": "toggle",
+        "img": "images/items/ring_of_dworf.png",
+        "codes": "ringdworf"
+    },
+    {
+        "name": "Demons Ring",
+        "type": "toggle",
+        "img": "images/items/demons_ring.png",
+        "codes": "demonsring"
+    },
+    {
+        "name": "Black Onyx",
+        "type": "toggle",
+        "img": "images/items/black_onyx.png",
+        "codes": "blackonyx"
+    },
+    {
+        "name": "Sky Spring Flow",
+        "type": "toggle",
+        "img": "images/items/sky_spring_flow.png",
+        "codes": "skyspring"
+    },
+    {
+        "name": "Tower of Fortress Spring Flow",
+        "type": "toggle",
+        "img": "images/items/tower_of_fortress_spring_flow.png",
+        "codes": "towerspring"
+    },
+    {
+        "name": "Joker Spring Flow",
+        "type": "toggle",
+        "img": "images/items/joker_spring_flow.png",
+        "codes": "jokerspring"
+    },
+    {
+        "name": "Deluge",
+        "type": "toggle",
+        "img": "images/items/deluge.png",
+        "codes": "deluge"
+    },
+    {
+        "name": "Thunder",
+        "type": "toggle",
+        "img": "images/items/thunder.png",
+        "codes": "thunder"
+    },
+    {
+        "name": "Fire",
+        "type": "toggle",
+        "img": "images/items/fire.png",
+        "codes": "fire"
+    },
+    {
+        "name": "Death",
+        "type": "toggle",
+        "img": "images/items/death.png",
+        "codes": "death"
+    },
+    {
+        "name": "Tilte",
+        "type": "toggle",
+        "img": "images/items/tilte.png",
+        "codes": "tilte"
+    },
+    {
+        "name": "Ring of Elf",
+        "type": "toggle",
+        "img": "images/items/ring_of_elf.png",
+        "codes": "ringelf"
+    },
+    {
+        "name": "Magical Rod",
+        "type": "toggle",
+        "img": "images/items/magical_rod.png",
+        "codes": "magicalrod"
+    },
+    {
+        "name": "Pendant",
+        "type": "toggle",
+        "img": "images/items/pendant.png",
+        "codes": "pendant"
+    },
+    {
+        "name": "Hourglass",
         "type": "consumable",
-        "img": "images/items/Energy_Tank.png",
-        "max_quantity": 100,
+        "img": "images/items/hourglass.png",
+        "max_quantity": 6,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
         "overlay_background": "#000000",
         "overlay_font_size": 8,
-        "codes": "Energy Tank"
+        "codes": "hourglass"
     },
     {
-        "name": "Gravity Suit",
-        "type": "toggle",
-        "img": "images/items/Gravity.png",
-        "codes": "Gravity Suit"
-    },
-    {
-        "name": "Hi Jump Boots",
-        "type": "toggle",
-        "img": "images/items/Hi_Jump.png",
-        "codes": "Hi Jump"
-    },
-    {
-        "name": "Ice Beam",
-        "type": "toggle",
-        "img": "images/items/Ice.png",
-        "codes": "Ice Beam"
-    },
-    {
-        "name": "Missiles",
+        "name": "Red Potion",
         "type": "consumable",
-        "img": "images/items/Missile.png",
-        "disabled_img_mods": "none",
-        "max_quantity": 100,
+        "img": "images/items/red_potion.png",
+        "max_quantity": 15,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
         "overlay_background": "#000000",
         "overlay_font_size": 8,
-        "codes": "Missiles"
+        "codes": "redpotion"
     },
     {
-        "name": "Morph Ball",
-        "type": "toggle",
-        "img": "images/items/Morph.png",
-        "codes": "Morph Ball",
-        "disabled_img_mods": "none",  // temp fix
-        "initial_active_state": "true"
-    },
-    {
-        "name": "Plasma Beam",
-        "type": "toggle",
-        "img": "images/items/Plasma.png",
-        "codes": "Plasma Beam"
-    },
-    {
-        "name": "Power Bombs",
+        "name": "Elixir",
         "type": "consumable",
-        "img": "images/items/Power_Bombs.png",
-        "max_quantity": 100,
+        "img": "images/items/elixir.png",
+        "max_quantity": 4,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
         "overlay_background": "#000000",
         "overlay_font_size": 8,
-        "codes": "Power Bombs"
+        "codes": "elixir"
     },
     {
-        "name": "Power Grip",
-        "type": "toggle",
-        "img": "images/items/Power_Grip.png",
-        "codes": "Power Grip",
-        "disabled_img_mods": "none",  // temp fix
-        "initial_active_state": "true"
-    },
-    {
-        "name": "Screw Attack",
-        "type": "toggle",
-        "img": "images/items/Screw.png",
-        "codes": "Screw Attack"
-    },
-    {
-        "name": "Short Beam",
-        "type": "toggle",
-        "img": "images/items/Short.png",
-        "codes": "Short Beam"
-    },
-    {
-        "name": "Wave Beam",
-        "type": "toggle",
-        "img": "images/items/Wave.png",
-        "codes": "Wave Beam"
-    },
-    {
-        "name": "Spazer Beam",
-        "type": "toggle",
-        "img": "images/items/Spazer.png",
-        "codes": "Spazer Beam"
-    },
-    {
-        "name": "Space Jump",
-        "type": "toggle",
-        "img": "images/items/Spcae.png",
-        "codes": "Space Jump"
-    },
-    {
-        "name": "Speed Booster",
-        "type": "toggle",
-        "img": "images/items/Speed.png",
-        "codes": "Speed Booster"
-    },
-    {
-        "name": "Spider Ball",
-        "type": "toggle",
-        "img": "images/items/Spider.png",
-        "codes": "Spider Ball"
-    },
-    {
-        "name": "Spring Ball",
-        "type": "toggle",
-        "img": "images/items/Spring_Ball.png",
-        "codes": "Spring Ball"
-    },
-    {
-        "name": "Varia Suit",
-        "type": "toggle",
-        "img": "images/items/Varia.png",
-        "codes": "Varia Suit"
-    },
-    {
-        "name": "Super Missiles",
+        "name": "Glove",
         "type": "consumable",
-        "img": "images/items/Super.png",
-        "max_quantity": 100,
+        "img": "images/items/glove.png",
+        "max_quantity": 5,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
         "overlay_background": "#000000",
         "overlay_font_size": 8,
-        "codes": "Super Missiles"
+        "codes": "glove"
     },
     {
-        "name": "DNA",
+        "name": "Ointment",
         "type": "consumable",
-        "img": "images/items/DNA.png",
-        "disabled_img_mods": "none",
-        "max_quantity": 46,
+        "img": "images/items/ointment.png",
+        "max_quantity": 8,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
         "overlay_background": "#000000",
         "overlay_font_size": 8,
-        "codes": "DNA"
+        "codes": "ointment"
     },
     {
-
-        "name": "Traps",
+        "name": "Poison",
         "type": "consumable",
-        "img": "images/items/Short.png",
-        "max_quantity": 150,
+        "img": "images/items/poison.png",
+        "max_quantity": 13,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 0,
         "overlay_background": "#000000",
         "overlay_font_size": 8,
-        "codes": "Traps"
+        "codes": "poison"
+    },
+    {
+        "name": "Killed Evil One",
+        "type": "toggle",
+        "img": "images/items/killed_evil_one.png",
+        "codes": "killedevilone"
     }
 ]
